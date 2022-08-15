@@ -1,2 +1,2 @@
-# jupyter_local
- personal_practice_code
+# local code on my personal PC
+ 
