@@ -1,0 +1,144 @@
+import iris,glob,datetime, time,re,sys
+import numpy as np
+import scipy as sp
+import numpy.ma as ma
+import matplotlib.pyplot as plt
+import iris.coord_categorisation
+import cf_units
+import iris.quickplot as qplt
+from fractions import Fraction
+from mpl_toolkits.basemap import Basemap
+import matplotlib.colors as colors
+
+from cartopy import config
+import cartopy.crs as ccrs
+import matplotlib as mpl
+from matplotlib.ticker import LogFormatter
+
+import matplotlib.ticker as mticker
+from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
+
+#iris.FUTURE.cell_datetime_objects=True
+
+trial1=iris.cube.CubeList()
+trial2=iris.cube.CubeList()
+
+def find_nearest_index(array,value):
+    idx = (np.abs(array-value)).argmin()
+    return idx
+
+def cat_func_lat(position):
+    return asl.coord('latitude').nearest_neighbour_index(position)
+
+def cat_func_lon(position):
+    return asl.coord('longitude').nearest_neighbour_index(position)
+
+def lognormal_cummulative(N,r,rbar,sigma):
+    total=(N/2)*(1+sp.special.erf(np.log(r/rbar)/np.sqrt(2)/np.log(sigma)))
+    return total
+
+sigma=[1.59,1.59,1.40,2.0,1.59,1.59,2.0]
+
+pref=1.013e5
+tref=293.0
+zboltz=1.3807e-23
+staird=pref/(tref*287.058)
+
+
+
+sigma=[1.59,1.59,1.40,2.0,1.59,1.59,2.0]
+cutoff=2
+pref=1.013e5
+tref=293.0
+zboltz=1.3807e-23
+staird=pref/(tref*287.058)
+
+var1=[]
+var2=[]
+var3=[]
+var4=[]
+var5=[]
+var6=[]
+var7=[]
+var8=[]
+#f=plt.figure()
+indx=[10,20,30,35,40,45,50,55]
+alt=[3.4,5.1,7.8,9.8,12.1,14.8,18,21.7]
+
+
+data_level=12 # cloud base level = 12
+
+#for i in range(1):
+#for i in range(len(alt_data)):
+print ('\n File STARTED ')
+#if i==0:
+#p_day1='/group_workspaces/jasmin2/asci/eeara/model_runs/u-bf829/L1/' # this is the baseline
+#p_day2='/group_workspaces/jasmin2/asci/eeara/model_runs/u-bf834/L1/' # new run
+mpath1='/gws/nopw/j04/asci/eeara/model_runs/u-ca439/All_months/' # this is the baseline
+mpath2='/gws/nopw/j04/asci/eeara/model_runs/u-ca440/All_months/' # new run
+
+mpath1='/gws/nopw/j04/asci/eeara/model_runs/u-cc356/All_months/' # this is the baseline
+mpath2='/gws/nopw/j04/asci/eeara/model_runs/u-cd612/All_months/' # new run
+
+mpath1='/gws/nopw/j04/asci/eeara/model_runs/u-cd962/All_months/' # this is the baseline
+mpath2='/gws/nopw/j04/asci/eeara/model_runs/u-cd612/All_months/' # new run
+
+mpath1='/gws/nopw/j04/asci/eeara/model_runs/u-ch344/All_months/' # this is the baseline
+mpath2='/gws/nopw/j04/asci/eeara/model_runs/u-ch345/All_months/' # new run
+
+mpath3 = '/gws/nopw/j04/asci/eeara/model_runs/u-cq700/All_months/' # run that has the sea salt diagnostics
+
+cn_file = 'All_months_m01s38i437_CN__NUMBER_CONCENTRATION____________.nc'
+
+bc_file = 'All_months_m01s38i525_unknown.nc' # this is the total black carbon load file kg/m2
+
+ss_file = 'All_months_m01s38i539_unknown.nc' # total sea salt load
+
+ss_file_acc = 'All_months_m01s34i111_mass_fraction_of_seasalt_in_soluble_accumulation_mode_dry_aerosol_in_air.nc' #kg/kg sea salt to accumulation mode aerosol
+
+ss_file_cor = 'All_months_m01s34i117_mass_fraction_of_seasalt_in_soluble_coarse_mode_dry_aerosol_in_air.nc'
+
+
+#ext_file = 'All_months_m01s02i530_unknown.nc'
+#scat_file = 'All_months_m01s02i532_unknown.nc'
+cn_file = bc_file
+
+new1 = iris.load(mpath1+cn_file)[0]
+new2 = iris.load(mpath2+cn_file)[0]
+
+new3 = iris.load(mpath3+ss_file_acc)[0]
+new4 = iris.load(mpath3+ss_file_cor)[0]
+
+
+print('BC load in no nuc planet = ', np.sum(new1.data))
+diff_load = (np.sum(new2.data)-np.sum(new1.data))*100/np.sum(new1.data)
+print ('percentage decrease in annual BC load = ', diff_load)
+
+new1 = new1.collapsed('time',iris.analysis.MEAN)
+new2 = new2.collapsed('time',iris.analysis.MEAN)
+
+#new4 = new3.copy()
+#new3 = new3.collapsed('time',iris.analysis.MEAN)
+new3 = new3[:,0,:,:];
+new4 = new4[:,0,:,:];
+
+
+mmr_to_ug = ((29.0/58.0)/1e-12) * (1e-6) * (12.187 * 58.0 / 273.15)
+
+new3 = new3 * mmr_to_ug;
+new4 = new4 * mmr_to_ug;
+
+"""
+dat1 = new1
+dat2 = new2
+
+ss_mmr = new3[0,:,:].copy()
+
+ss_ppt = ss_mmr*((29.0/58.0)/1e-12)
+
+ss_ppb = ss_ppt*1e-6;
+dat3 = ss_ppb * 12.187 * 58 / 273; # micrograms/m3
+
+#dat1=get_model_data(p_day1,data_level)
+#dat2=get_model_data(p_day2,data_level)
+"""
