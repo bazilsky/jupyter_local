@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Resume</title>
+  <style>
+    /* Add CSS for styling the webpage */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      background-color: #f2f2f2;
+      padding: 0.5em;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      margin-right: 1em;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 1em;
+    }
+    section {
+      margin-bottom: 2em;
+    }
+    section h2 {
+      margin-top: 0;
+    }
+    section h3 {
+      margin-top: 0;
+    }
+    section ul {
+      list-style: none;
+      padding: 0;
+    }
+    footer {
+      background-color: #f2f2f2;
+      text-align: center;
+      padding: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Resume</h1>
+  </header>
+  <nav>
+    <a href="#about-me">About Me</a>
+    <a href="#education">Education</a>
+    <a href="#experience">Experience</a>
+    <a href="#skills">Skills</a>
+  </nav>
+  <main>
+    <section id="about-me">
+      <h2>About Me</h2>
+      <p>Write a brief summary about yourself.</p>
+    </section>
+<section id="education">
+  <h2>Education</h2>
+  <h3>Degree Name, Institution Name</h3>
+  <p>Add details about your education.</p>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+  <h3>Job Title, Company Name</h3>
+  <p>Add details about your job experience.</p>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Add your skills</li>
+    <li>Add your skills</li>
+    <li>Add your skills</li>
+  </ul>
+</section>
+  </main>
+  <footer>
+    <p>Copyright © Your Name</p>
+  </footer>
+</body>
+</html>
