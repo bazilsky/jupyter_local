@@ -36,7 +36,7 @@ def find_NN(point1):
 
 def save_netcdf(data):
     fn = 'tomcat_snow_depth_3.nc'
-    #os.remove(fn)
+    os.remove(fn)
     ds = nc.Dataset(fn,'w',format = 'NETCDF4')
 
     time = ds.createDimension('time',12)
@@ -92,6 +92,7 @@ tomcat_lat_org = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
 
 tomcat_lat = np.sort(tomcat_lat_org)
 
+#tomcat_lat[53:len(tomcat_lat)]
 
 tomcat_lon_360 = np.arange(0,360,2.8125)
 
@@ -107,20 +108,23 @@ for i in range(len(tomcat_lon_360)):
 
 tomcat_lon = np.sort(tomcat_lon)
 
+
+#########################
+
 tomcat_snow_depth = np.zeros((12,len(tomcat_lat),len(tomcat_lon)))
 
 time1 = time.time()
-for i in range(11):
+#for i in range(2):
 #    for j in range(2):
-#for i in range(len(tomcat_lat)):
+for i in range(53,len(tomcat_lat)):
     for j in range(len(tomcat_lon)):
         point1 = (tomcat_lat[i], tomcat_lon[j])
         row, col = find_NN(point1)
         tomcat_snow_depth[:,i,j] = snow_depth[:,row,col]
         if snow_depth[0,row,col] != 0:
-            print('non zero value', i, j)
+            print('non zero value', i, j, point1)
         else:
-            print('zero value    ', i, j)
+            print('zero value    ', i, j, point1)
 
 
 time2 = time.time()

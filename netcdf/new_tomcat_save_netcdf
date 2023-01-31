@@ -35,8 +35,8 @@ def find_NN(point1):
     return row, col
 
 def save_netcdf(data):
-    fn = 'tomcat_snow_depth_3.nc'
-    #os.remove(fn)
+    fn = 'tomcat_snow_depth_2.nc'
+    os.remove(fn)
     ds = nc.Dataset(fn,'w',format = 'NETCDF4')
 
     time = ds.createDimension('time',12)
@@ -44,10 +44,8 @@ def save_netcdf(data):
     lon_dim = ds.createDimension('lon',len(tomcat_lon))
 
     temp_time = np.arange(1,13,1)
-    #temp_lat = np.linspace(1,2,len(tomcat_lat))
-    temp_lat = tomcat_lat
-    #temp_lon = np.linspace(1,2,len(tomcat_lon))
-    temp_lon = tomcat_lon
+    temp_lat = np.linspace(1,2,len(tomcat_lat))
+    temp_lon = np.linspace(1,2,len(tomcat_lon))
     np.shape(temp_time)
 
     times = ds.createVariable('time', 'f4', ('time',))
@@ -76,7 +74,7 @@ lon = iris.load('longitude.nc')[0].data
 
 #tomcat lat and lon
 
-tomcat_lat_org = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
+tomcat_lat = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
         73.95, 71.16, 68.37, 65.58, 62.79,
         60.00, 57.21, 54.42, 51.63, 48.84,
         46.04, 43.25, 40.46, 37.67, 34.88,
@@ -89,9 +87,6 @@ tomcat_lat_org = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
        -51.63,-54.42,-57.21,-60.00,-62.79,
        -65.58,-68.37,-71.16,-73.95,-76.74,
        -79.53,-82.31,-85.10,-87.86])
-
-tomcat_lat = np.sort(tomcat_lat_org)
-
 
 tomcat_lon_360 = np.arange(0,360,2.8125)
 

@@ -4,39 +4,11 @@ import time
 import netCDF4 as nc
 import os
 
-def haversine_distance(lat1, lon1, lat2, lon2):
-    # Convert latitude and longitude from degrees to radians
-    lat1, lon1, lat2, lon2 = np.radians([lat1, lon1, lat2, lon2])
 
-    # Compute the difference between the latitudes and longitudes
-    dlat = lat2 - lat1
-    dlon = lon2 - lon1
 
-    # Use the Haversine formula to compute the distance
-    a = np.sin(dlat/2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon/2)**2
-    c = 2 * np.arcsin(np.sqrt(a))
-
-    # The Earth's radius, in kilometers
-    R = 6371
-
-    # Return the distance, in kilometers
-    return c * R
-
-def find_NN(point1):
-    dist = np.zeros((361,361))
-    for i in range(361):
-        for j in range(0,361):
-            point2 = (lat[i,j],lon[i,j])
-            dist[i,j] = haversine_distance(point1[0],point1[1],point2[0],point2[1])
-    min_index = np.argmin(dist)
-    # i and j values where distance is minimum
-    row = min_index // dist.shape[1]
-    col = min_index % dist.shape[1]
-    return row, col
-
-def save_netcdf(data):
+def save_netcdf(data,):
     fn = 'tomcat_snow_depth_3.nc'
-    #os.remove(fn)
+    os.remove(fn)
     ds = nc.Dataset(fn,'w',format = 'NETCDF4')
 
     time = ds.createDimension('time',12)
@@ -44,10 +16,8 @@ def save_netcdf(data):
     lon_dim = ds.createDimension('lon',len(tomcat_lon))
 
     temp_time = np.arange(1,13,1)
-    #temp_lat = np.linspace(1,2,len(tomcat_lat))
-    temp_lat = tomcat_lat
-    #temp_lon = np.linspace(1,2,len(tomcat_lon))
-    temp_lon = tomcat_lon
+    temp_lat = np.linspace(1,2,len(tomcat_lat))
+    temp_lon = np.linspace(1,2,len(tomcat_lon))
     np.shape(temp_time)
 
     times = ds.createVariable('time', 'f4', ('time',))
@@ -66,17 +36,9 @@ def save_netcdf(data):
 
 
 
-
-
-
-snow_depth = iris.load('snow_depth_1.nc')[0].data
-lat = iris.load('latitude.nc')[0].data
-lon = iris.load('longitude.nc')[0].data
-
-
 #tomcat lat and lon
 
-tomcat_lat_org = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
+tomcat_lat = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
         73.95, 71.16, 68.37, 65.58, 62.79,
         60.00, 57.21, 54.42, 51.63, 48.84,
         46.04, 43.25, 40.46, 37.67, 34.88,
@@ -89,9 +51,6 @@ tomcat_lat_org = np.array([87.86, 85.10, 82.31, 79.53, 76.74,
        -51.63,-54.42,-57.21,-60.00,-62.79,
        -65.58,-68.37,-71.16,-73.95,-76.74,
        -79.53,-82.31,-85.10,-87.86])
-
-tomcat_lat = np.sort(tomcat_lat_org)
-
 
 tomcat_lon_360 = np.arange(0,360,2.8125)
 
