@@ -1,0 +1,1031 @@
+/* DATA DESCRIPTION:
+Citation:	Macfarlane, Amy R; Schneebeli, Martin; Dadic, Ruzica; Wagner, David N; Arndt, Stefanie; Clemens-Sewall, David; Hämmerle, Stefan; Hannula, Henna-Reetta; Jaggi, Matthias; Kolabutin, Nikolai; Krampe, Daniela; Lehning, Michael; Matero, Ilkka; Nicolaus, Marcel; Oggier, Marc; Pirazzini, Roberta; Polashenski, Chris; Raphael, Ian; Regnery, Julia; Shimanchuck, Egor; Smith, Madison M; Tavri, Aikaterini (2022): Snowpit salinity profiles during the MOSAiC expedition. PANGAEA, https://doi.org/10.1594/PANGAEA.946807, 
+	In: Macfarlane, AR et al. (2021): Snowpit raw data collected during the MOSAiC expedition. PANGAEA, https://doi.org/10.1594/PANGAEA.935934
+Abstract:	In the designated snowpits, 100cm3 of snow was collected in the field, melted and measured for salinity in the laboratory on board Polarstern. Salinity of the melted snow samples was measured using the YSI 30 Salinity, Conductivity and Temperature sensor. The transport containers, as well as the YSI tip, were cleaned using milli-Q water. Salinity profiles were measured at the same intervals as density and stable isotope profiles.
+Project(s):	Arctic Research Icebreaker Consortium: A strategy for meeting the needs for marine-based research in the Arctic (ARICE) (URI: https://www.arice.eu/)
+	Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) (URI: https://www.mosaic-expedition.org/)
+Funding:	Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven (AWI) (URI: http://www.awi.de), grant/award no. AFMOSAiC-1_00: Multidisciplinary drifting Observatory for the Study of Arctic Climate
+	Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven (AWI) (URI: http://www.awi.de), grant/award no. AWI_PS122_00: Multidisciplinary drifting Observatory for the Study of Arctic Climate / MOSAiC
+	Horizon 2020 (H2020) (URI: https://ec.europa.eu/programmes/horizon2020/), grant/award no. 730965: Arctic Research Icebreaker Consortium: A strategy for meeting the needs for marine-based research in the Arctic (URI: https://cordis.europa.eu/projects/730965)
+	Swiss Federal Institute for Forest, Snow and Landscape Research (WSL/FNP) (URI: http://www.wsl.ch), grant/award no. WSL_201812N1678
+	Swiss National Science Foundation (SNF) (URI: http://www.snf.ch/en/), grant/award no. 179130: From Cloud to Ground: Snow Accumulation in Extreme Environments (URI: https://p3.snf.ch/project-179130)
+	Swiss Polar Institute (SPI) (URI: https://swisspolar.ch), grant/award no. DIRCR-2018-003
+Coverage:	MEDIAN LATITUDE: 85.922622 * MEDIAN LONGITUDE: 67.897355 * SOUTH-BOUND LATITUDE: 79.187972 * WEST-BOUND LONGITUDE: -2.590231 * NORTH-BOUND LATITUDE: 89.146214 * EAST-BOUND LONGITUDE: 126.483514
+	DATE/TIME START: 2019-10-28T00:00:00 * DATE/TIME END: 2020-09-30T00:00:00
+Event(s):	PS122/1_5-5 * LATITUDE: 85.541385 * LONGITUDE: 126.423526 * DATE/TIME: 2019-10-28T01:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Close to met city; Slight snowfall, drifting snow, blowing snow
+	PS122/1_6-6 * LATITUDE: 85.938993 * LONGITUDE: 120.062730 * DATE/TIME: 2019-11-04T06:14:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow1, SW corner
+	PS122/1_6-30 * LATITUDE: 85.914472 * LONGITUDE: 117.559905 * DATE/TIME: 2019-11-06T06:28:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: FYI Lead Snow3; a pit fyi: lead sw of snow3
+	PS122/1_6-41 * LATITUDE: 85.924428 * LONGITUDE: 116.735929 * DATE/TIME: 2019-11-07T05:53:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: CC Pit 1: transect north
+	PS122/1_6-47 * LATITUDE: 85.923194 * LONGITUDE: 116.731377 * DATE/TIME: 2019-11-07T06:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: + Salinity; CC Pit 5: transect
+	PS122/1_7-12 * LATITUDE: 85.876519 * LONGITUDE: 116.420764 * DATE/TIME: 2019-11-11T06:28:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: a3 pit snow1 fyi-lead
+	PS122/1_7-68 * LATITUDE: 86.168232 * LONGITUDE: 118.120941 * DATE/TIME: 2019-11-14T06:42:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: c pit 1 transect north: ok
+	PS122/1_7-70 * LATITUDE: 86.168825 * LONGITUDE: 118.162700 * DATE/TIME: 2019-11-14T07:55:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: transect c 4: ok
+	PS122/1_7-73 * LATITUDE: 86.167305 * LONGITUDE: 118.195140 * DATE/TIME: 2019-11-14T08:22:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: transect c 5: ok
+	PS122/1_7-88 * LATITUDE: 86.192778 * LONGITUDE: 118.285550 * DATE/TIME: 2019-11-15T06:34:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow2; snowpit a snow2: ok
+	PS122/1_8-68 * LATITUDE: 85.745643 * LONGITUDE: 120.850688 * DATE/TIME: 2019-11-21T07:54:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Pit1: Transect North + Salinity + Temperature ; cc 1 transect: ok
+	PS122/1_8-78 * LATITUDE: 85.736380 * LONGITUDE: 120.744474 * DATE/TIME: 2019-11-22T03:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: a pit snow 2: dunes/sastrugi
+	PS122/1_8-79 * LATITUDE: 85.740802 * LONGITUDE: 120.606673 * DATE/TIME: 2019-11-22T07:58:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: a pit dark coring: ok
+	PS122/1_9-71 * LATITUDE: 86.164785 * LONGITUDE: 116.719690 * DATE/TIME: 2019-11-28T08:54:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: c transect: + salinity
+	PS122/1_9-72 * LATITUDE: 86.163269 * LONGITUDE: 116.693685 * DATE/TIME: 2019-11-28T09:35:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: c 3 transect: ok
+	PS122/1_9-73 * LATITUDE: 86.162642 * LONGITUDE: 116.677846 * DATE/TIME: 2019-11-28T09:57:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: c 4 transect: ok
+	PS122/1_10-5 * LATITUDE: 85.919265 * LONGITUDE: 113.897282 * DATE/TIME: 2019-12-02T10:04:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: A-Pit: Snow1 ROV road
+	PS122/1_10-50 * LATITUDE: 86.145690 * LONGITUDE: 120.875416 * DATE/TIME: 2019-12-05T09:49:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: c transect 1: ok
+	PS122/1_10-70 * LATITUDE: 86.141229 * LONGITUDE: 122.166729 * DATE/TIME: 2019-12-06T05:53:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/1_10-71 * LATITUDE: 86.134336 * LONGITUDE: 122.284037 * DATE/TIME: 2019-12-06T09:53:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/1_10-72 * LATITUDE: 86.132315 * LONGITUDE: 122.204045 * DATE/TIME: 2019-12-06T11:14:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * CAMPAIGN: PS122/1 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_16-24 * LATITUDE: 86.680797 * LONGITUDE: 112.865480 * DATE/TIME: 2019-12-19T11:36:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: cc2: c trans 2
+	PS122/2_16-44 * LATITUDE: 86.680632 * LONGITUDE: 112.880056 * DATE/TIME: 2019-12-19T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_16-45 * LATITUDE: 86.680801 * LONGITUDE: 112.866089 * DATE/TIME: 2019-12-19T11:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_16-46 * LATITUDE: 86.681152 * LONGITUDE: 112.826747 * DATE/TIME: 2019-12-19T12:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_16-62 * LATITUDE: 86.685790 * LONGITUDE: 122.360680 * DATE/TIME: 2019-12-21T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Set up of new RS-site, snowpit close by
+	PS122/2_17-16 * LATITUDE: 86.641399 * LONGITUDE: 113.147028 * DATE/TIME: 2019-12-23T10:58:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-43 * LATITUDE: 86.656650 * LONGITUDE: 115.775030 * DATE/TIME: 2019-12-26T11:24:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-44 * LATITUDE: 86.656790 * LONGITUDE: 115.791960 * DATE/TIME: 2019-12-26T12:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-45 * LATITUDE: 86.656790 * LONGITUDE: 115.807460 * DATE/TIME: 2019-12-26T12:04:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-46 * LATITUDE: 86.656860 * LONGITUDE: 115.816690 * DATE/TIME: 2019-12-26T12:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-47 * LATITUDE: 86.656970 * LONGITUDE: 115.825160 * DATE/TIME: 2019-12-26T12:29:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_17-49 * LATITUDE: 86.645280 * LONGITUDE: 115.645660 * DATE/TIME: 2019-12-26T06:26:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Location: Remote Sensing 3 (RS3)
+	PS122/2_17-109 * LATITUDE: 86.677540 * LONGITUDE: 115.907990 * DATE/TIME: 2019-12-27T10:54:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_18-17 * LATITUDE: 86.673120 * LONGITUDE: 115.715920 * DATE/TIME: 2019-12-30T06:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $snow1-a5$
+	PS122/2_18-52 * LATITUDE: 86.825360 * LONGITUDE: 116.543690 * DATE/TIME: 2020-01-02T11:03:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow height differs a lot, there is also a icehole or a crack under the snow
+	PS122/2_18-53 * LATITUDE: 86.827050 * LONGITUDE: 116.524510 * DATE/TIME: 2020-01-02T11:23:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: SWE: measured only until 2 cm over ice surface
+	PS122/2_18-54 * LATITUDE: 86.828840 * LONGITUDE: 116.505360 * DATE/TIME: 2020-01-02T11:38:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Temperature thermometers did not work, too cold
+	PS122/2_18-55 * LATITUDE: 86.826359 * LONGITUDE: 116.578845 * DATE/TIME: 2020-01-02T12:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Temperature thermometer did not work, too cold GPS: from SMP
+	PS122/2_18-56 * LATITUDE: 86.827900 * LONGITUDE: 116.487660 * DATE/TIME: 2020-01-02T12:33:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Micro CT sample
+	PS122/2_18-66 * LATITUDE: 86.893710 * LONGITUDE: 115.720250 * DATE/TIME: 2020-01-03T06:29:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $snow1-A5$ persons: MS, MJ, DK
+	PS122/2_19-9 * LATITUDE: 87.071680 * LONGITUDE: 115.315120 * DATE/TIME: 2020-01-06T06:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-41 * LATITUDE: 87.322560 * LONGITUDE: 115.086440 * DATE/TIME: 2020-01-08T12:16:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Close to Metstation
+	PS122/2_19-75 * LATITUDE: 87.147502 * LONGITUDE: 114.178455 * DATE/TIME: 2020-01-09T06:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: close to coring
+	PS122/2_19-92 * LATITUDE: 87.154970 * LONGITUDE: 113.903720 * DATE/TIME: 2020-01-10T06:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-129 * LATITUDE: 87.147826 * LONGITUDE: 114.156685 * DATE/TIME: 2020-01-09T11:09:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-132 * LATITUDE: 87.147914 * LONGITUDE: 114.148397 * DATE/TIME: 2020-01-09T11:36:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-134 * LATITUDE: 87.147874 * LONGITUDE: 114.145002 * DATE/TIME: 2020-01-09T11:53:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: GPS points mixed up in the field book. After field book: 87.147812, 114.144586 But the other values are more realistic (one point forgotton to note)
+	PS122/2_19-137 * LATITUDE: 87.144646 * LONGITUDE: 114.119674 * DATE/TIME: 2020-01-09T12:05:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-141 * LATITUDE: 87.275073 * LONGITUDE: 109.415432 * DATE/TIME: 2020-01-12T11:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow Salinity measurements from runway transect
+	PS122/2_19-142 * LATITUDE: 87.145996 * LONGITUDE: 114.172052 * DATE/TIME: 2020-01-09T12:42:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_19-144 * LATITUDE: 87.179803 * LONGITUDE: 112.780124 * DATE/TIME: 2020-01-10T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: FR = Fort Ridge
+	PS122/2_19-145 * LATITUDE: 87.338367 * LONGITUDE: 107.028839 * DATE/TIME: 2020-01-13T12:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow salinity measurements from EMIRAD Footprint
+	PS122/2_19-146 * LATITUDE: 87.146529 * LONGITUDE: 114.162450 * DATE/TIME: 2020-01-09T13:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: EMIRAD footprint
+	PS122/2_20-4 * LATITUDE: 87.326770 * LONGITUDE: 107.036290 * DATE/TIME: 2020-01-13T10:48:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_20-80 * LATITUDE: 87.501490 * LONGITUDE: 99.303380 * DATE/TIME: 2020-01-17T10:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: snowpit with film crew
+	PS122/2_20-83 * LATITUDE: 87.532520 * LONGITUDE: 99.519420 * DATE/TIME: 2020-01-17T09:20:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: DK MJ MS
+	PS122/2_21-14 * LATITUDE: 87.436160 * LONGITUDE: 97.601640 * DATE/TIME: 2020-01-20T06:33:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_21-15 * LATITUDE: 87.448840 * LONGITUDE: 97.355180 * DATE/TIME: 2020-01-20T11:05:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_21-52 * LATITUDE: 87.476040 * LONGITUDE: 95.062320 * DATE/TIME: 2020-01-22T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: not a full A-pit !
+	PS122/2_21-53 * LATITUDE: 87.474160 * LONGITUDE: 95.002240 * DATE/TIME: 2020-01-22T06:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: not a full A-pit !
+	PS122/2_21-84 * LATITUDE: 87.445690 * LONGITUDE: 94.077030 * DATE/TIME: 2020-01-23T06:35:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_21-96 * LATITUDE: 87.424930 * LONGITUDE: 93.074070 * DATE/TIME: 2020-01-24T10:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_22-5 * LATITUDE: 87.444910 * LONGITUDE: 95.462550 * DATE/TIME: 2020-01-27T06:23:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_22-6 * LATITUDE: 87.440550 * LONGITUDE: 95.660080 * DATE/TIME: 2020-01-27T10:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_22-43 * LATITUDE: 87.463100 * LONGITUDE: 95.107100 * DATE/TIME: 2020-01-29T06:55:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_22-46 * LATITUDE: 87.462960 * LONGITUDE: 95.090480 * DATE/TIME: 2020-01-29T07:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: extra measurement in a dune close to snow3-A6
+	PS122/2_22-61 * LATITUDE: 87.457287 * LONGITUDE: 96.475436 * DATE/TIME: 2020-01-30T11:04:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_22-73 * LATITUDE: 87.434180 * LONGITUDE: 96.483200 * DATE/TIME: 2020-01-31T06:41:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-2 * LATITUDE: 87.426583 * LONGITUDE: 93.117365 * DATE/TIME: 2020-02-03T11:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-9 * LATITUDE: 87.405110 * LONGITUDE: 93.186140 * DATE/TIME: 2020-02-03T06:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-34 * LATITUDE: 87.532660 * LONGITUDE: 94.983470 * DATE/TIME: 2020-02-05T06:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-53 * LATITUDE: 87.769560 * LONGITUDE: 91.739450 * DATE/TIME: 2020-02-06T09:35:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: The site is strongly deformed
+	PS122/2_23-73 * LATITUDE: 87.640180 * LONGITUDE: 93.702170 * DATE/TIME: 2020-02-07T06:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-74 * LATITUDE: 87.635660 * LONGITUDE: 93.779260 * DATE/TIME: 2020-02-07T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-75 * LATITUDE: 87.613770 * LONGITUDE: 93.807930 * DATE/TIME: 2020-02-06T12:27:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-76 * LATITUDE: 87.614240 * LONGITUDE: 93.815160 * DATE/TIME: 2020-02-06T12:42:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_23-77 * LATITUDE: 87.614510 * LONGITUDE: 93.823110 * DATE/TIME: 2020-02-06T12:55:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-14 * LATITUDE: 87.770210 * LONGITUDE: 91.904300 * DATE/TIME: 2020-02-10T06:36:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-15 * LATITUDE: 87.771070 * LONGITUDE: 91.883310 * DATE/TIME: 2020-02-10T10:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-35 * LATITUDE: 87.859210 * LONGITUDE: 87.883320 * DATE/TIME: 2020-02-12T06:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-81 * LATITUDE: 88.065848 * LONGITUDE: 79.753643 * DATE/TIME: 2020-02-15T10:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-86 * LATITUDE: 88.062640 * LONGITUDE: 79.797280 * DATE/TIME: 2020-02-16T10:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_24-112 * LATITUDE: 87.950078 * LONGITUDE: 77.037281 * DATE/TIME: 2020-02-15T14:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: GPS from ATMO-station, 14:03 UTC (beginning of snowpit)
+	PS122/2_24-113 * LATITUDE: 88.028990 * LONGITUDE: 82.081270 * DATE/TIME: 2020-02-15T13:02:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_25-22 * LATITUDE: 88.071610 * LONGITUDE: 79.120320 * DATE/TIME: 2020-02-17T06:34:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_25-23 * LATITUDE: 88.069710 * LONGITUDE: 78.973760 * DATE/TIME: 2020-02-17T10:27:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_25-59 * LATITUDE: 88.379400 * LONGITUDE: 68.790460 * DATE/TIME: 2020-02-20T10:35:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_25-80 * LATITUDE: 88.474660 * LONGITUDE: 67.025790 * DATE/TIME: 2020-02-21T06:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/2_25-81 * LATITUDE: 88.502930 * LONGITUDE: 66.349090 * DATE/TIME: 2020-02-21T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/2 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_29-9 * LATITUDE: 88.556529 * LONGITUDE: 45.532083 * DATE/TIME: 2020-02-25T12:17:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_29-28 * LATITUDE: 88.504520 * LONGITUDE: 41.276400 * DATE/TIME: 2020-02-26T06:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_29-43 * LATITUDE: 88.410615 * LONGITUDE: 36.866956 * DATE/TIME: 2020-02-27T10:49:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_30-17 * LATITUDE: 88.183750 * LONGITUDE: 31.012690 * DATE/TIME: 2020-03-02T14:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_30-25 * LATITUDE: 88.094250 * LONGITUDE: 30.559730 * DATE/TIME: 2020-03-04T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_30-61 * LATITUDE: 88.094570 * LONGITUDE: 29.642960 * DATE/TIME: 2020-03-06T10:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_31-55 * LATITUDE: 87.673770 * LONGITUDE: 24.833650 * DATE/TIME: 2020-03-11T09:35:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_31-79 * LATITUDE: 87.656880 * LONGITUDE: 24.077410 * DATE/TIME: 2020-03-15T11:15:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_32-22 * LATITUDE: 87.064006 * LONGITUDE: 15.319919 * DATE/TIME: 2020-03-16T11:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Flux chamber mictoCT sample
+	PS122/3_32-59 * LATITUDE: 86.696760 * LONGITUDE: 12.047610 * DATE/TIME: 2020-03-20T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Amy, Reza
+	PS122/3_32-61 * LATITUDE: 86.253582 * LONGITUDE: 15.015573 * DATE/TIME: 2020-03-21T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: quick pit before coring day FYI site
+	PS122/3_32-88 * LATITUDE: 86.230560 * LONGITUDE: 15.736680 * DATE/TIME: 2020-03-22T08:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Amy/Steffi snow1 day with hell
+	PS122/3_32-92 * LATITUDE: 86.229960 * LONGITUDE: 15.751200 * DATE/TIME: 2020-03-22T10:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_33-41 * LATITUDE: 86.126770 * LONGITUDE: 14.299920 * DATE/TIME: 2020-03-25T07:50:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_34-34 * LATITUDE: 85.111210 * LONGITUDE: 15.510400 * DATE/TIME: 2020-04-01T11:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snowpit reversed and done facing into the wind
+	PS122/3_34-45 * LATITUDE: 84.973620 * LONGITUDE: 15.137690 * DATE/TIME: 2020-04-02T08:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snowpit and lead transect combined see field book notes
+	PS122/3_35-23 * LATITUDE: 84.520520 * LONGITUDE: 14.158760 * DATE/TIME: 2020-04-06T08:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snowpit before coring Monday at second year ice site
+	PS122/3_35-53 * LATITUDE: 84.481720 * LONGITUDE: 14.627140 * DATE/TIME: 2020-04-08T07:40:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_35-56 * LATITUDE: 84.481600 * LONGITUDE: 14.699980 * DATE/TIME: 2020-04-08T11:55:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_36-14 * LATITUDE: 84.293257 * LONGITUDE: 14.959879 * DATE/TIME: 2020-04-13T11:51:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: relocation of pit further along road 10m left due to large ridge at previous site
+	PS122/3_36-35 * LATITUDE: 84.322520 * LONGITUDE: 14.023120 * DATE/TIME: 2020-04-15T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_36-99 * LATITUDE: 84.303300 * LONGITUDE: 13.064890 * DATE/TIME: 2020-04-16T07:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_36-103 * LATITUDE: 84.339520 * LONGITUDE: 13.088440 * DATE/TIME: 2020-04-16T15:02:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_37-39 * LATITUDE: 84.137070 * LONGITUDE: 15.861500 * DATE/TIME: 2020-04-22T07:41:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_37-41 * LATITUDE: 84.115180 * LONGITUDE: 15.950040 * DATE/TIME: 2020-04-22T12:07:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_37-57 * LATITUDE: 84.069280 * LONGITUDE: 15.995480 * DATE/TIME: 2020-04-23T11:31:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_37-68 * LATITUDE: 84.054810 * LONGITUDE: 15.974880 * DATE/TIME: 2020-04-24T09:46:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Conducted alongside salinity and do18 coring event. With David and Steven.
+	PS122/3_37-129 * LATITUDE: 83.878880 * LONGITUDE: 16.922240 * DATE/TIME: 2020-04-25T09:01:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_37-132 * LATITUDE: 83.919440 * LONGITUDE: 15.508370 * DATE/TIME: 2020-04-26T14:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_38-1 * LATITUDE: 83.920304 * LONGITUDE: 15.634730 * DATE/TIME: 2020-04-27T08:01:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_38-4 * LATITUDE: 83.935940 * LONGITUDE: 15.644540 * DATE/TIME: 2020-04-27T11:57:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_38-51 * LATITUDE: 83.976226 * LONGITUDE: 18.125896 * DATE/TIME: 2020-04-30T10:10:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: snowpit $L2$: A pit
+	PS122/3_38-95 * LATITUDE: 83.918720 * LONGITUDE: 17.683940 * DATE/TIME: 2020-05-01T11:48:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_38-141 * LATITUDE: 83.874000 * LONGITUDE: 17.880680 * DATE/TIME: 2020-05-03T12:14:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: new FYI coring site- location of PS122/3_39-7
+	PS122/3_39-45 * LATITUDE: 83.907710 * LONGITUDE: 18.362770 * DATE/TIME: 2020-05-04T11:46:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_39-46 * LATITUDE: 83.910320 * LONGITUDE: 18.363510 * DATE/TIME: 2020-05-04T12:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_39-48 * LATITUDE: 83.793580 * LONGITUDE: 16.496530 * DATE/TIME: 2020-05-06T12:28:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_39-88 * LATITUDE: 83.787590 * LONGITUDE: 14.143260 * DATE/TIME: 2020-05-09T07:23:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_39-91 * LATITUDE: 83.765150 * LONGITUDE: 13.940270 * DATE/TIME: 2020-05-09T12:25:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/3_39-92 * LATITUDE: 83.660790 * LONGITUDE: 13.459630 * DATE/TIME: 2020-05-10T12:06:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/3 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_44-45 * LATITUDE: 82.149102 * LONGITUDE: 7.694608 * DATE/TIME: 2020-06-13T12:51:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Transit pit on port side, conducted alongside ASD
+	PS122/4_44-47 * LATITUDE: 82.136200 * LONGITUDE: 7.700200 * DATE/TIME: 2020-06-13T15:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: "On a dune; 82,08,173 7,42,012"
+	PS122/4_44-156 * LATITUDE: 81.983694 * LONGITUDE: 9.337652 * DATE/TIME: 2020-06-22T08:06:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: FYI before coring action
+	PS122/4_44-193 * LATITUDE: 81.935143 * LONGITUDE: 9.842092 * DATE/TIME: 2020-06-27T14:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: uCT samples taken along transect with albedo measurements and ROV diving underneath - ROV1 transect
+	PS122/4_44-215 * LATITUDE: 81.969510 * LONGITUDE: 9.905930 * DATE/TIME: 2020-06-27T08:19:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_44-216 * LATITUDE: 81.876470 * LONGITUDE: 9.466580 * DATE/TIME: 2020-06-28T12:18:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_45-8 * LATITUDE: 81.831760 * LONGITUDE: 9.178660 * DATE/TIME: 2020-06-29T10:54:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: kayak trip, fresh snow cold night so refrozen but showing signs of melt. SMP broke during measurements
+	PS122/4_45-16 * LATITUDE: 81.804280 * LONGITUDE: 8.977940 * DATE/TIME: 2020-06-30T08:04:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: "check time and coordinates; Snowpit before SYI coring team"
+	PS122/4_45-18 * LATITUDE: 81.789050 * LONGITUDE: 8.962900 * DATE/TIME: 2020-06-30T13:34:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_45-87 * LATITUDE: 81.676360 * LONGITUDE: 7.743890 * DATE/TIME: 2020-07-03T08:33:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_45-107 * LATITUDE: 81.706618 * LONGITUDE: 6.735446 * DATE/TIME: 2020-07-04T11:06:39 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: at ROV
+	PS122/4_45-108 * LATITUDE: 81.710941 * LONGITUDE: 6.682929 * DATE/TIME: 2020-07-04T13:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: At Remote sensing - surface sample uCT
+	PS122/4_46-29 * LATITUDE: 81.702454 * LONGITUDE: 5.576609 * DATE/TIME: 2020-07-06T08:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-104 * LATITUDE: 81.514745 * LONGITUDE: 2.400324 * DATE/TIME: 2020-07-10T10:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 24h 'points of interest' optics sampling
+	PS122/4_46-106 * LATITUDE: 81.500635 * LONGITUDE: 2.338499 * DATE/TIME: 2020-07-10T13:19:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-107 * LATITUDE: 81.485570 * LONGITUDE: 2.192410 * DATE/TIME: 2020-07-10T18:08:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-108 * LATITUDE: 81.482747 * LONGITUDE: 2.155989 * DATE/TIME: 2020-07-10T19:18:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-109 * LATITUDE: 81.481578 * LONGITUDE: 2.128539 * DATE/TIME: 2020-07-10T20:00:50 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-110 * LATITUDE: 81.474195 * LONGITUDE: 1.950558 * DATE/TIME: 2020-07-11T00:09:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-111 * LATITUDE: 81.472587 * LONGITUDE: 1.910245 * DATE/TIME: 2020-07-11T01:09:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-112 * LATITUDE: 81.459104 * LONGITUDE: 1.741790 * DATE/TIME: 2020-07-11T07:27:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-135 * LATITUDE: 81.457570 * LONGITUDE: 1.715900 * DATE/TIME: 2020-07-11T08:12:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_46-181 * LATITUDE: 81.698446 * LONGITUDE: 5.603430 * DATE/TIME: 2020-07-06T08:00:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: dO18 sample taken of snow surface
+	PS122/4_47-22 * LATITUDE: 81.424730 * LONGITUDE: 0.291990 * DATE/TIME: 2020-07-13T07:42:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_47-66 * LATITUDE: 81.310040 * LONGITUDE: 0.354750 * DATE/TIME: 2020-07-15T10:13:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_47-76 * LATITUDE: 81.223275 * LONGITUDE: 0.278991 * DATE/TIME: 2020-07-16T13:37:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 1A,1B, 5A,5B,7(drained melt pond)
+	PS122/4_47-77 * LATITUDE: 81.300299 * LONGITUDE: 0.329165 * DATE/TIME: 2020-07-15T10:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: last two points on leg 3 SYI optics line... NIR, uCT,KIPPS, ASD conducted
+	PS122/4_48-40 * LATITUDE: 80.782392 * LONGITUDE: -0.440613 * DATE/TIME: 2020-07-20T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_48-41 * LATITUDE: 80.754160 * LONGITUDE: 0.506160 * DATE/TIME: 2020-07-20T11:53:03 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: on/off pit experiment next to ECO lodge
+	PS122/4_48-42 * LATITUDE: 80.635336 * LONGITUDE: -0.530859 * DATE/TIME: 2020-07-21T07:43:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_48-47 * LATITUDE: 80.508354 * LONGITUDE: -0.513978 * DATE/TIME: 2020-07-22T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: Snow on/off pit at ECO lodge. SSL experiment. uCT and NIR images taken at both A(clean) and B (dirty) pits
+	PS122/4_48-58 * LATITUDE: 80.467890 * LONGITUDE: -0.572753 * DATE/TIME: 2020-07-22T14:46:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 1a nir 1b nir and uCT
+	PS122/4_48-142 * LATITUDE: 80.198576 * LONGITUDE: -0.575309 * DATE/TIME: 2020-07-24T11:32:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 0m on Jaridge snow transect
+	PS122/4_48-143 * LATITUDE: 80.194934 * LONGITUDE: -0.579205 * DATE/TIME: 2020-07-24T11:50:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 5m on Jaridge snow transect
+	PS122/4_48-144 * LATITUDE: 80.190981 * LONGITUDE: -0.584618 * DATE/TIME: 2020-07-24T12:10:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 10m on Jaridge snow transect
+	PS122/4_48-145 * LATITUDE: 80.187280 * LONGITUDE: -0.590886 * DATE/TIME: 2020-07-24T12:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: 14m on Jaridge snow transect
+	PS122/4_48-146 * LATITUDE: 79.994250 * LONGITUDE: 0.634070 * DATE/TIME: 2020-07-25T07:36:36 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: SSL starting to show
+	PS122/4_48-177 * LATITUDE: 79.799530 * LONGITUDE: 1.735070 * DATE/TIME: 2020-07-26T11:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_49-7 * LATITUDE: 79.637462 * LONGITUDE: -2.247271 * DATE/TIME: 2020-07-27T07:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: alongside ASD
+	PS122/4_49-8 * LATITUDE: 79.629832 * LONGITUDE: -2.248657 * DATE/TIME: 2020-07-27T08:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT)
+	PS122/4_49-47 * LATITUDE: 79.187972 * LONGITUDE: -2.590231 * DATE/TIME: 2020-07-29T11:30:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/4 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: new location infront of L-Scat. Destructive snowpit sampling before clearing pit. casted samples taken
+	PS122/5_59-204 * LATITUDE: 87.751210 * LONGITUDE: 104.610200 * DATE/TIME: 2020-08-22T11:30:20 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: at ROV snow site, snowpit A; $SNOW5_ROV$, A-pit at ROV snow site
+	PS122/5_59-206 * LATITUDE: 87.755250 * LONGITUDE: 104.738540 * DATE/TIME: 2020-08-22T14:15:17 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: at RS snow site, B pit; $SNOW5_RS$, A-pit at RS snow site
+	PS122/5_59-222 * LATITUDE: 87.750310 * LONGITUDE: 105.883070 * DATE/TIME: 2020-08-23T10:45:00 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit
+	PS122/5_59-235 * LATITUDE: 87.752060 * LONGITUDE: 105.933320 * DATE/TIME: 2020-08-23T09:30:50 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_OC$, B-pit at OC/MET snow site
+	PS122/5_59-250 * LATITUDE: 87.766060 * LONGITUDE: 104.007700 * DATE/TIME: 2020-08-24T13:10:04 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, A-pit at RS snow site
+	PS122/5_59-267 * LATITUDE: 87.775880 * LONGITUDE: 104.819870 * DATE/TIME: 2020-08-25T06:30:08 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV snow site
+	PS122/5_59-292 * LATITUDE: 87.826350 * LONGITUDE: 104.630430 * DATE/TIME: 2020-08-26T05:05:56 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ALBK$, A-PIT
+	PS122/5_59-313 * LATITUDE: 87.943730 * LONGITUDE: 107.458050 * DATE/TIME: 2020-08-27T08:30:08 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, A-pit at RS site, with sampling
+	PS122/5_59-350 * LATITUDE: 88.032800 * LONGITUDE: 108.919820 * DATE/TIME: 2020-08-28T04:30:54 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ALBK$, snowpit A at albedo Kinder line
+	PS122/5_59-352 * LATITUDE: 88.032800 * LONGITUDE: 108.919820 * DATE/TIME: 2020-08-28T09:15:59 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW_ROV$, snowpit A at ROV
+	PS122/5_60-2 * LATITUDE: 88.283220 * LONGITUDE: 113.788790 * DATE/TIME: 2020-08-31T04:50:32 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_CORING$, A-pit at coring site
+	PS122/5_60-24 * LATITUDE: 88.336570 * LONGITUDE: 114.868420 * DATE/TIME: 2020-09-01T04:15:29 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit at MET city
+	PS122/5_60-26 * LATITUDE: 88.343570 * LONGITUDE: 115.197720 * DATE/TIME: 2020-09-01T06:40:31 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV
+	PS122/5_60-78 * LATITUDE: 88.583010 * LONGITUDE: 120.062890 * DATE/TIME: 2020-09-03T09:34:17 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV site
+	PS122/5_60-91 * LATITUDE: 88.697669 * LONGITUDE: 120.650948 * DATE/TIME: 2020-09-04T04:20:32 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: coordinates to follow...; $SNOW5_ALBK$, A-pit at Albedo Kinder snow site
+	PS122/5_60-128 * LATITUDE: 88.723770 * LONGITUDE: 120.655560 * DATE/TIME: 2020-09-05T04:53:56 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ALBK$, A-pit at albedo kinder
+	PS122/5_60-142 * LATITUDE: 88.744610 * LONGITUDE: 119.404490 * DATE/TIME: 2020-09-05T10:00:11 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV snow site
+	PS122/5_61-2 * LATITUDE: 88.723340 * LONGITUDE: 112.075520 * DATE/TIME: 2020-09-07T04:30:48 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_CORING$, A-pit at coring site
+	PS122/5_61-4 * LATITUDE: 88.723370 * LONGITUDE: 112.075590 * DATE/TIME: 2020-09-07T09:10:25 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, A-pit at RS snow site
+	PS122/5_61-25 * LATITUDE: 88.674240 * LONGITUDE: 112.631050 * DATE/TIME: 2020-09-08T07:08:15 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV snow site
+	PS122/5_61-28 * LATITUDE: 88.673930 * LONGITUDE: 112.298320 * DATE/TIME: 2020-09-08T05:01:31 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit at snow MET site
+	PS122/5_61-97 * LATITUDE: 88.727220 * LONGITUDE: 112.765450 * DATE/TIME: 2020-09-09T04:30:02 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit at MET site, new snow with a little drift
+	PS122/5_61-132 * LATITUDE: 88.708540 * LONGITUDE: 107.148800 * DATE/TIME: 2020-09-10T09:13:02 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, A-pit at RS snow site
+	PS122/5_61-162 * LATITUDE: 88.732060 * LONGITUDE: 104.622670 * DATE/TIME: 2020-09-11T04:20:28 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit at MET city snow site
+	PS122/5_61-198 * LATITUDE: 88.769060 * LONGITUDE: 101.662490 * DATE/TIME: 2020-09-12T05:00:09 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV snow site
+	PS122/5_61-210 * LATITUDE: 88.771369 * LONGITUDE: 101.209891 * DATE/TIME: 2020-09-12T10:00:22 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $LEAD_ICE_OC$, Lead ice from new lead at OCEAN, from ECO
+	PS122/5_61-236 * LATITUDE: 88.770360 * LONGITUDE: 101.408840 * DATE/TIME: 2020-09-13T08:30:28 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ALBK$, A-pit at Albedo Kinder Snow site
+	PS122/5_62-10 * LATITUDE: 88.003690 * LONGITUDE: 99.469730 * DATE/TIME: 2020-09-14T04:30:15 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_CORING$, A-pit at CORING snow site
+	PS122/5_62-39 * LATITUDE: 89.071660 * LONGITUDE: 107.308980 * DATE/TIME: 2020-09-15T04:45:57 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_FLUX$, A-pit at Flux sled snow site
+	PS122/5_62-44 * LATITUDE: 89.063940 * LONGITUDE: 107.671270 * DATE/TIME: 2020-09-15T09:10:03 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, A-pit at RS snow site
+	PS122/5_62-69 * LATITUDE: 89.087780 * LONGITUDE: 108.673270 * DATE/TIME: 2020-09-16T04:30:23 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ROV$, A-pit at ROV
+	PS122/5_62-89 * LATITUDE: 89.026220 * LONGITUDE: 108.121840 * DATE/TIME: 2020-09-17T04:30:30 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ALBK$, A-pit at Albedo Kinder snow site
+	PS122/5_62-99 * LATITUDE: 89.015000 * LONGITUDE: 107.385150 * DATE/TIME: 2020-09-17T10:10:24 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_FLUX$, A-pit at snow site at Flux sled in Hinterland
+	PS122/5_62-101 * LATITUDE: 89.018090 * LONGITUDE: 107.900730 * DATE/TIME: 2020-09-17T06:20:08 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_TRANS_ARIEL_PIT$, transect pit at RS ARIEL transect
+	PS122/5_62-119 * LATITUDE: 89.015000 * LONGITUDE: 107.384070 * DATE/TIME: 2020-09-18T05:00:08 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RADST_POND$, Transect pit with microCT sample on the pond of radiation station, NIR on the pond next to it.
+	PS122/5_62-123 * LATITUDE: 89.015000 * LONGITUDE: 107.384070 * DATE/TIME: 2020-09-18T05:48:31 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_TCHAIN_2020T78$, TRANSECT pit at SIMBA 2020T78, next to snow buoy at ROV, next to RADST (level ice at main buoy site)
+	PS122/5_62-124 * LATITUDE: 89.065440 * LONGITUDE: 107.362210 * DATE/TIME: 2020-09-18T08:25:03 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_MET$, A-pit at MET snow site
+	PS122/5_62-126 * LATITUDE: 89.068180 * LONGITUDE: 107.216060 * DATE/TIME: 2020-09-18T10:15:01 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_FMI_RADST$, FMI radiation station location while it was removed, A-pit
+	PS122/5_62-139 * LATITUDE: 89.142990 * LONGITUDE: 110.613730 * DATE/TIME: 2020-09-19T08:30:30 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $FLUX_SLED_POND$, NIR+SfM+SMP transect on pond + MicroCT snow and ice. Plus Transect pit at $SNOW5_TCHAIN_FLUX_RS056$
+	PS122/5_62-140 * LATITUDE: 89.071460 * LONGITUDE: 106.916870 * DATE/TIME: 2020-09-19T09:30:47 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_RS$, end of measurements A-pit at RS, right under the measurements. See SMP transect for SMP measurements
+	PS122/5_62-146 * LATITUDE: 89.071460 * LONGITUDE: 106.916870 * DATE/TIME: 2020-09-19T11:15:51 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_TCHAIN_RS$, Transect pit at Tchain at RS
+	PS122/5_63-96 * LATITUDE: 86.013110 * LONGITUDE: 59.422240 * DATE/TIME: 2020-09-24T11:15:39 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ICESTATION1$, A-pit at ice station 1 on the way back
+	PS122/5_63-97 * LATITUDE: 86.013110 * LONGITUDE: 59.422240 * DATE/TIME: 2020-09-26T06:39:56 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ICESTATION2$, A-pit at ice station 2, beginning of transect
+	PS122/5_63-99 * LATITUDE: 86.032503 * LONGITUDE: 35.502449 * DATE/TIME: 2020-09-26T10:30:47 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ICESTATION2$, A-pit at FLUX sled stationary at ice station 2 on the way back
+	PS122/5_63-262 * LATITUDE: 86.013110 * LONGITUDE: 59.422240 * DATE/TIME: 2020-09-30T08:13:24 * Sensor URI: https://sensor.awi.de/?urn=pack_ice:snowpit * LOCATION: Arctic Ocean * CAMPAIGN: PS122/5 (MOSAiC20192020) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Snow pit (SNOWPIT) * COMMENT: $SNOW5_ICESTATION3$, A-pit at ice station 3, beginning of transect
+Parameter(s):	Event label (Event) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+	DATE/TIME (Date/Time) * GEOCODE * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+	Location (Location) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+	LATITUDE (Latitude) * GEOCODE * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+	LONGITUDE (Longitude) * GEOCODE * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+	Height, relative, from ice/snow line, maximum [m] (H rel ice/snow max) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * COMMENT: sampe top
+	Height, relative, from ice/snow line, minimum [m] (H rel ice/snow min) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * COMMENT: sampe bottom
+	Comment (Comment) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * COMMENT: Container
+	Salinity, absolute [g/kg] (ASAL) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * METHOD/DEVICE: YSI 30 salinty/conductivity/temperature meter * COMMENT: ppt
+	Salinity (Sal) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * METHOD/DEVICE: YSI 30 salinty/conductivity/temperature meter * COMMENT: PSU
+	Conductivity [µS] (Cond) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * METHOD/DEVICE: YSI 30 salinty/conductivity/temperature meter * COMMENT: Salinity
+	Temperature, water [°C] (Temp) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * METHOD/DEVICE: YSI 30 salinty/conductivity/temperature meter
+	Sample ID (Sample ID) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com) * COMMENT: O18_vial_ID
+	Comment (Comment) * PI: Macfarlane, Amy R (https://orcid.org/0000-0002-1638-8885, amyrmacfarlane@gmail.com)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels) * Processing Level: PANGAEA data processing level 1 (URI: https://wiki.pangaea.de/wiki/Processing_levels#PANGAEA_data_processing_level_1)
+Size:	5157 data points
+*/
+Event	Date/Time	Location	Latitude	Longitude	H rel ice/snow max [m] (sampe top)	H rel ice/snow min [m] (sampe bottom)	Comment (Container)	ASAL [g/kg] (ppt)	Sal (PSU)	Cond [µS] (Salinity)	Temp [°C]	Sample ID (O18_vial_ID)	Comment
+PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.075	0.040		0.7		1312.0			
+PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.040	0.020		13.1		21750.0			
+PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.020	0.000		16.5		26930.0			
+PS122/1_10-50	2019-12-05	RS-transect-north	86.142113	120.967131	0.090	0.070		0.0		96.0			
+PS122/1_10-50	2019-12-05	RS-transect-north	86.142113	120.967131	0.070	0.050		0.1		161.2			
+PS122/1_10-50	2019-12-05	RS-transect-north	86.142113	120.967131	0.110	0.090		0.2		441.6			
+PS122/1_10-70	2019-12-06	snow2-A2	86.140307	122.221844	0.070	0.040		0.0		11.8			
+PS122/1_10-70	2019-12-06	snow2-A2	86.140307	122.221844	0.100	0.070		0.0		20.4			
+PS122/1_10-70	2019-12-06	snow2-A2	86.140307	122.221844	0.020	0.000		0.0		20.8			
+PS122/1_10-70	2019-12-06	snow2-A2	86.140307	122.221844	0.040	0.020		0.0		29.5			
+PS122/1_10-70	2019-12-06	snow2-A2	86.140307	122.221844	0.130	0.100		0.1		114.3			
+PS122/1_10-71	2019-12-06	snow1-A3	86.138813	122.290837	0.065	0.035		12.0		19980.0			
+PS122/1_10-71	2019-12-06	snow1-A3	86.138813	122.290837	0.040	0.020		21.9		34510.0			
+PS122/1_10-71	2019-12-06	snow1-A3	86.138813	122.290837	0.020	0.000		30.1					
+PS122/1_10-72	2019-12-06	snow3-A6	86.138861	122.294345	0.050	0.020		7.6		13260.0			
+PS122/1_10-72	2019-12-06	snow3-A6	86.138861	122.294345	0.040	0.020		10.0		17050.0			
+PS122/1_10-72	2019-12-06	snow3-A6	86.138861	122.294345	0.020	0.000		20.6		32960.0			
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.050	0.020		0.0		7.3		dO18_0085	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.110	0.080		0.0		10.6		dO18_0086	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.080	0.050		0.0		13.3		dO18_0087	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.140	0.110		0.0		25.0		dO18_0088	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.230	0.200		0.0				dO18_0089	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.200	0.170		0.0				dO18_0090	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.170	0.140		0.0				dO18_0091	
+PS122/1_5-5	2019-10-28	snow1-A1	85.541079	126.483514	0.260	0.230		0.1				dO18_0092	
+PS122/1_6-30	2019-11-06	snow3-A6	85.918749	117.688175	0.060	0.030		1.2		2371.0			
+PS122/1_6-30	2019-11-06	snow3-A6	85.918749	117.688175	0.030	0.000		15.0					
+PS122/1_6-41	2019-11-07	RS-transect-north	85.920542	116.827728	0.095	0.065		0.0		22.2			
+PS122/1_6-41	2019-11-07	RS-transect-north	85.920542	116.827728	0.065	0.035		0.0		24.6			
+PS122/1_6-41	2019-11-07	RS-transect-north	85.920542	116.827728	0.125	0.095		0.0		36.5			
+PS122/1_6-41	2019-11-07	RS-transect-north	85.920542	116.827728	0.035	0.005		0.2		390.9			
+PS122/1_6-47	2019-11-07	RS-transect-north	85.920176	116.805311	0.070	0.040		0.0		11.8			
+PS122/1_6-47	2019-11-07	RS-transect-north	85.920176	116.805311	0.100	0.070		0.0		27.8			
+PS122/1_6-47	2019-11-07	RS-transect-north	85.920176	116.805311	0.040	0.010		0.5		1033.0			
+PS122/1_6-47	2019-11-07	RS-transect-north	85.920176	116.805311	0.030	0.000		0.7		1485.0			
+PS122/1_6-6	2019-11-04	snow1-A5	85.941256	120.121719	0.080	0.050		0.2		387.7			
+PS122/1_6-6	2019-11-04	snow1-A5	85.941256	120.121719	0.050	0.020		19.0		30590.0			
+PS122/1_6-6	2019-11-04	snow1-A5	85.941256	120.121719	0.020	0.000		22.9		36220.0			
+PS122/1_7-12	2019-11-11	snow1-A3	85.878379	116.469979	0.060	0.030		38.7					
+PS122/1_7-12	2019-11-11	snow1-A3	85.878379	116.469979	0.030	0.000		77.2					
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.115	0.095		0.0		14.5			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.075	0.055		0.0		16.0			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.135	0.115		0.0		16.2			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.095	0.075		0.0		18.0			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.055	0.035		0.0		22.4			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.155	0.135		0.0		25.7			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.035	0.015		0.0		30.9			
+PS122/1_7-68	2019-11-14	RS-transect-north	86.163946	118.214807	0.015	0.000		0.1		204.0			
+PS122/1_7-70	2019-11-14	RS-transect-north	86.166028	118.227021	0.050	0.030		0.0		23.6			
+PS122/1_7-70	2019-11-14	RS-transect-north	86.166028	118.227021	0.070	0.050		0.0		43.5			
+PS122/1_7-70	2019-11-14	RS-transect-north	86.166028	118.227021	0.030	0.010		0.2		355.5			
+PS122/1_7-70	2019-11-14	RS-transect-north	86.166028	118.227021	0.020	0.000		0.8		1654.0			
+PS122/1_7-73	2019-11-14	RS-transect-north	86.166780	118.230560	0.060	0.040		4.4		7920.0			
+PS122/1_7-73	2019-11-14	RS-transect-north	86.166780	118.230560	0.040	0.020		25.3		39700.0			
+PS122/1_7-73	2019-11-14	RS-transect-north	86.166780	118.230560	0.020	0.000		26.0		40740.0			
+PS122/1_7-88	2019-11-15	snow2-A2	86.189183	118.388435	0.020	0.000		0.0		16.1			
+PS122/1_7-88	2019-11-15	snow2-A2	86.189183	118.388435	0.050	0.030		0.0		29.1			
+PS122/1_7-88	2019-11-15	snow2-A2	86.189183	118.388435	0.070	0.050		0.0		31.3			
+PS122/1_7-88	2019-11-15	snow2-A2	86.189183	118.388435	0.030	0.010		0.0		46.3			
+PS122/1_7-88	2019-11-15	snow2-A2	86.189183	118.388435	0.100	0.070		0.1		61.2			
+PS122/1_8-68	2019-11-21	RS-transect-north	85.741983	120.939863	0.070	0.040		0.0		10.3			
+PS122/1_8-68	2019-11-21	RS-transect-north	85.741983	120.939863	0.100	0.070		0.0		33.8			
+PS122/1_8-68	2019-11-21	RS-transect-north	85.741983	120.939863	0.160	0.130		0.0		35.0			
+PS122/1_8-68	2019-11-21	RS-transect-north	85.741983	120.939863	0.040	0.020		0.0		35.7			
+PS122/1_8-68	2019-11-21	RS-transect-north	85.741983	120.939863	0.020	0.000		0.1		196.6			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.140	0.110		0.0		15.5			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.110	0.080		0.0		20.4			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.080	0.050		0.0		24.4			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.170	0.140		0.0		28.0			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.200	0.170		0.0		55.0			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.060	0.040		0.1		185.2			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.040	0.020		0.1		261.7			
+PS122/1_8-78	2019-11-22	snow2-A8	85.735793	120.811513	0.020	0.000		1.1		2141.0			
+PS122/1_8-79	2019-11-22	ds-coring-A7	85.731380	120.782370	0.090	0.060		0.4		720.0			
+PS122/1_8-79	2019-11-22	ds-coring-A7	85.731380	120.782370	0.060	0.040		1.8		3385.0			
+PS122/1_8-79	2019-11-22	ds-coring-A7	85.731380	120.782370	0.040	0.020		7.4		12880.0			
+PS122/1_8-79	2019-11-22	ds-coring-A7	85.731380	120.782370	0.020	0.000		13.6		22400.0			
+PS122/1_9-71	2019-11-28	RS-transect-north	86.161671	116.822791	0.040	0.020		0.0		16.2			
+PS122/1_9-71	2019-11-28	RS-transect-north	86.161671	116.822791	0.090	0.060		0.0		17.4			
+PS122/1_9-71	2019-11-28	RS-transect-north	86.161671	116.822791	0.060	0.040		0.0		90.9			
+PS122/1_9-71	2019-11-28	RS-transect-north	86.161671	116.822791	0.020	0.000		0.1		275.4			
+PS122/1_9-72	2019-11-28	RS-transect-north	86.160829	116.778574	0.060	0.040		0.0		22.2			
+PS122/1_9-72	2019-11-28	RS-transect-north	86.160829	116.778574	0.120	0.090		0.0		26.6			
+PS122/1_9-72	2019-11-28	RS-transect-north	86.160829	116.778574	0.090	0.060		0.0		46.6			
+PS122/1_9-72	2019-11-28	RS-transect-north	86.160829	116.778574	0.040	0.020		0.0		93.0			
+PS122/1_9-73	2019-11-28	RS-transect-north	86.160419	116.755731	0.060	0.040		0.0		22.7			
+PS122/1_9-73	2019-11-28	RS-transect-north	86.160419	116.755731	0.075	0.055		0.0		55.7			
+PS122/1_9-73	2019-11-28	RS-transect-north	86.160419	116.755731	0.040	0.020		0.0		66.5			
+PS122/1_9-73	2019-11-28	RS-transect-north	86.160419	116.755731	0.020	0.000		0.4		817.0			
+PS122/2_16-24	2019-12-19	RS-transect-north	86.678375	112.959685	0.130	0.100	S4	0.0			19.0		
+PS122/2_16-24	2019-12-19	RS-transect-north	86.678375	112.959685	0.000	-0.030	S12	0.0			19.0		
+PS122/2_16-44	2019-12-19	RS-transect-north	86.678565	112.971396	0.000	-0.030	S2	0.0			19.0		
+PS122/2_16-44	2019-12-19	RS-transect-north	86.678565	112.971396	0.160	0.130	S3	0.1			19.0		
+PS122/2_16-45	2019-12-19	RS-transect-north	86.678349	112.958525	0.090	0.060	S1	0.1			19.0		
+PS122/2_16-46	2019-12-19	RS-transect-north	86.678172	112.946898	0.380	0.350	S13	0.1			19.0		
+PS122/2_16-46	2019-12-19	RS-transect-north	86.678172	112.946898	0.000	-0.030	S10	0.1			19.0		
+PS122/2_16-62	2019-12-21	RS3	86.687716	112.404836	0.100	0.070	S8	0.0			19.0	dO18_0098	RS3
+PS122/2_16-62	2019-12-21	RS3	86.687716	112.404836	0.070	0.040	S16	0.0			19.0	dO18_0099	RS3
+PS122/2_16-62	2019-12-21	RS3	86.687716	112.404836	0.030	0.000	S14	1.4			19.0	dO18_0105	RS3
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.230	0.200	S19	0.0			18.5	dO18_0113	Snow2 A8
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.200	0.170	S11	0.0			18.5	dO18_0114	Snow2 A8
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.170	0.140	S13	0.0			18.5	dO18_0115	Snow2 A8
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.140	0.110	S12	0.0			18.5	dO18_0116	Snow2 A8
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.110	0.080	S15	0.0			18.5	dO18_0117	Snow2 A8
+PS122/2_17-109	2019-12-27	snow2-A8	86.678533	115.957610	0.080	0.000	S20	0.1			18.5	dO18_0118	Snow2 A8
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.085	0.055	S11	0.0			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.085	0.055	S18	0.0			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.085	0.055	S20	0.0			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.035	0.000	S7	0.1			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.085	0.055	S15	0.1			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.050	0.025	S9	0.2			19.0		
+PS122/2_17-16	2019-12-23	snow1-A9	86.641399	113.147028	0.085	0.050	S19	0.5			19.0		
+PS122/2_17-43	2019-12-26	RS-transect-north	86.653117	115.872631	0.280	0.250	S2	0.0			18.4	dO18_0151	Transect North RS
+PS122/2_17-43	2019-12-26	RS-transect-north	86.653117	115.872631	0.000	-0.030	S6	0.0			18.4	dO18_0152	Transect North RS
+PS122/2_17-44	2019-12-26	RS-transect-north	86.653808	115.888240	0.130	0.100	S9	0.0			18.4	dO18_0153	Transect North RS
+PS122/2_17-44	2019-12-26	RS-transect-north	86.653808	115.888240	0.000	-0.030	S4	0.2			18.4	dO18_0156	Transect North RS
+PS122/2_17-45	2019-12-26	RS-transect-north	86.653879	115.889844	0.095	0.065	S1	0.0			18.4	dO18_0154	Transect North RS
+PS122/2_17-45	2019-12-26	RS-transect-north	86.653879	115.889844	0.000	-0.030	S7	0.3			18.4	dO18_0157	Transect North RS
+PS122/2_17-46	2019-12-26	RS-transect-north	86.654084	115.894205	0.000	-0.030	S8	0.0			18.4	dO18_0155	Transect North RS
+PS122/2_17-47	2019-12-26	RS-transect-north	86.654353	115.899551	0.000	-0.030	S3	0.3			18.4	dO18_0158	Transect North RS
+PS122/2_17-49	2019-12-26	RS3	86.646972	115.691912	0.105	0.075	T	0.0			18.4	dO18_0100	RS3
+PS122/2_17-49	2019-12-26	RS3	86.646972	115.691912	0.000	-0.030	B	0.9			18.4	dO18_0104	RS3
+PS122/2_17-49	2019-12-26	RS3	86.646972	115.691912	0.050	0.020	M	0.0			18.4	dO18_0107	RS3, snow depth middle not known
+PS122/2_18-17	2019-12-30	snow1-A5	86.608526	116.557529	0.055	0.025	S12			11.8	17.8		
+PS122/2_18-17	2019-12-30	snow1-A5	86.608526	116.557529	0.030	0.000	S13			21.7	17.8		
+PS122/2_18-17	2019-12-30	snow1-A5	86.608526	116.557529	0.085	0.055	S7			284.0	17.8		
+PS122/2_18-52	2020-01-02	RS-transect-north	86.821327	116.643260	0.020	0.000	S14	0.0		14.4	19.8	dO18_0021	Bottom
+PS122/2_18-52	2020-01-02	RS-transect-north	86.821327	116.643260	0.200	0.190	S11	0.0		52.5	19.4	dO18_0125	Surface
+PS122/2_18-53	2020-01-02	RS-transect-north	86.823046	116.621157	0.120	0.110	S19	0.0		31.0	19.9	dO18_0124	Surface
+PS122/2_18-53	2020-01-02	RS-transect-north	86.823046	116.621157	0.020	0.000	S4	0.1		211.8	19.8	dO18_0022	Bottom
+PS122/2_18-54	2020-01-02	RS-transect-north	86.824425	116.603469	0.095	0.085	ohne Nr	0.1		130.2	19.4	dO18_0127	Surface
+PS122/2_18-54	2020-01-02	RS-transect-north	86.824425	116.603469	0.020	0.000	S12	0.4		900.0	19.9	dO18_0023	Bottom
+PS122/2_18-55	2020-01-02	RS-transect-north	86.826359	116.578845	0.080	0.070	S3	0.0		95.4	19.9	dO18_0126	Surface
+PS122/2_18-55	2020-01-02	RS-transect-north	86.826359	116.578845	0.020	0.000	S1	0.5		962.0	18.6	dO18_0024	Bottom
+PS122/2_18-56	2020-01-02	RS3	86.829262	116.541992	0.055	0.030	S10	0.0		46.2	19.1		
+PS122/2_18-56	2020-01-02	RS3	86.829262	116.541992	0.075	0.055	B	0.0		76.9	19.0		
+PS122/2_18-56	2020-01-02	RS3	86.829262	116.541992	0.080	0.075	S7	0.3		565.0	19.1		
+PS122/2_18-56	2020-01-02	RS3	86.829262	116.541992	0.030	0.015	S6	0.4		775.0	19.3		
+PS122/2_18-56	2020-01-02	RS3	86.829262	116.541992	0.015	0.000	C20	4.4		7050.0	19.0		
+PS122/2_18-66	2020-01-03	snow1-A5	86.898460	115.741537	0.080	0.050	S20			913.0	18.4	dO18_0065	maybe microSiemens
+PS122/2_18-66	2020-01-03	snow1-A5	86.898460	115.741537	0.050	0.020	S9			10000.0	18.4	dO18_0066	maybe microSiemens
+PS122/2_18-66	2020-01-03	snow1-A5	86.898460	115.741537	0.030	0.000	S13			23130.0	18.4	dO18_0067	maybe microSiemens
+PS122/2_19-129	2020-01-09	RS-transect-north	87.143452	114.284656	0.030	0.000	S6	0.0			18.5	dO18_0025	bottom
+PS122/2_19-129	2020-01-09	RS-transect-north	87.143452	114.284656	0.320	0.290	S7	0.0			18.5	dO18_0128	surface
+PS122/2_19-132	2020-01-09	RS-transect-north	87.144098	114.258919	0.030	0.000	S13	0.0			18.5	dO18_0026	bottom
+PS122/2_19-132	2020-01-09	RS-transect-north	87.144098	114.258919	0.130	0.100	S8	0.0			18.5	dO18_0129	surface
+PS122/2_19-134	2020-01-09	RS-transect-north	87.144509	114.242369	0.030	0.000	S1	0.0			18.5	dO18_0027	bottom
+PS122/2_19-134	2020-01-09	RS-transect-north	87.144509	114.242369	0.130	0.100	M	0.1			18.5	dO18_0130	surface
+PS122/2_19-137	2020-01-09	RS-transect-north	87.144801	114.230740	0.030	0.000	S19	0.1			18.5	dO18_0028	bottom
+PS122/2_19-137	2020-01-09	RS-transect-north	87.144801	114.230740	0.210	0.180	S18	0.1			18.5	dO18_0131	surface
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			4.05			dO18_0031	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			6.10			dO18_0033	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			7.70			dO18_0037	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			10.80			dO18_0038	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			11.76			dO18_0039	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			12.43			dO18_0040	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			14.83			dO18_0042	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			15.52			dO18_0043	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			15.58			dO18_0044	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.030	0.000			23.24			dO18_0045	bottom, RS salinity instrument (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.060	0.030			1.07			dO18_0068	middle, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.090	0.060			0.12			dO18_0134	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.160	0.130			0.20			dO18_0137	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.060	0.030			1.53			dO18_0141	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.040	0.010			1.80			dO18_0142	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.160	0.130			1.86			dO18_0143	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.060	0.030			2.30			dO18_0144	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.070	0.040			2.50			dO18_0145	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.070	0.040			2.70			dO18_0146	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.040	0.010			2.86			dO18_0147	surface, RS salinity instrument, (psu)
+PS122/2_19-141	2020-01-12	runway1	87.275073	109.415432	0.050	0.020			3.31			dO18_0148	surface, RS salinity instrument, (psu)
+PS122/2_19-142	2020-01-09	RS3	87.145714	114.194168	0.030	0.000	S11		3.30			dO18_0030	bottom, RS salinity instrument (psu)
+PS122/2_19-142	2020-01-09	RS3	87.145714	114.194168	0.105	0.075	S4		0.00			dO18_0133	surface, RS salinity instrument, (psu)
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.370	0.340	AB	0.0				dO18_0192	
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.310	0.280	S9	0.0				dO18_0193	
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.250	0.220	AA	0.0				dO18_0194	
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.190	0.160	S2	0.0				dO18_0195	
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.130	0.100	S12	0.0				dO18_0196	
+PS122/2_19-144	2020-01-10	FR	87.175694	112.794265	0.070	0.040	S14	0.0				dO18_0197	
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.000			4.30			dO18_0032	bottom, RS salinity instrument (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.000			6.39			dO18_0034	bottom, RS salinity instrument (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.000			6.75			dO18_0035	bottom, RS salinity instrument (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.000			7.61			dO18_0036	bottom, RS salinity instrument (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.000			14.33			dO18_0041	bottom, RS salinity instrument (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.080	0.050			0.15			dO18_0135	surface, RS salinity instrument, (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.030	0.015			0.16			dO18_0136	surface, RS salinity instrument, (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.060	0.030			0.20			dO18_0138	surface, RS salinity instrument, (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.040	0.010			0.28			dO18_0139	surface, RS salinity instrument, (psu)
+PS122/2_19-145	2020-01-13	runway1	87.338367	107.028839	0.120	0.090			1.07			dO18_0140	surface, RS salinity instrument, (psu)
+PS122/2_19-146	2020-01-09	runway1	87.146529	114.162450	0.000	-0.030	B	7.2				dO18_0029	bottom, EMIRAD
+PS122/2_19-146	2020-01-09	runway1	87.146529	114.162450	0.080	0.050	S20	0.0				dO18_0132	surface, EMIRAD
+PS122/2_19-41	2020-01-08	L3	87.113455	115.177044	0.050	0.000	AB	6.0			20.1	dO18_0019	bottom
+PS122/2_19-41	2020-01-08	L3	87.113455	115.177044	0.120	0.110	AA	0.0			20.1	dO18_0122	surface
+PS122/2_19-75	2020-01-09	BGC3	87.136672	114.534163	0.030	0.000	AC	2.6			20.1	dO18_0020	bottom
+PS122/2_19-75	2020-01-09	BGC3	87.136672	114.534163	0.150	0.120	S12	0.1			20.1	dO18_0123	surface
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.145	0.115	S7	0.0		9.1	17.1	dO18_0187	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.235	0.205	S15	0.0		13.5	17.1	dO18_0184	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.205	0.175	S18	0.0		14.3	17.1	dO18_0185	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.175	0.145	S14	0.0		14.4	17.1	dO18_0186	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.115	0.085	S3	0.0		29.4	17.1	dO18_0188	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.265	0.235	S12	0.0		65.2	17.1	dO18_0183	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.085	0.055	S11	0.1		246.0	17.1	dO18_0189	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.055	0.025	S19			418.5	17.1	dO18_0190	
+PS122/2_19-9	2020-01-06	snow1-A1	87.098823	115.257965	0.030	0.000	S4			638.0	17.1	dO18_0191	
+PS122/2_19-92	2020-01-10	snow2-A2	87.168234	113.089407	0.130	0.100	S15	0.0			18.1	dO18_0198	
+PS122/2_19-92	2020-01-10	snow2-A2	87.168234	113.089407	0.100	0.070	S3	0.0			18.1	dO18_0199	
+PS122/2_19-92	2020-01-10	snow2-A2	87.168234	113.089407	0.070	0.040	S10	0.0			18.1	dO18_0200	
+PS122/2_19-92	2020-01-10	snow2-A2	87.168234	113.089407	0.030	0.000	S16	0.0			18.1	dO18_0201	
+PS122/2_20-4	2020-01-13	snow3-A6	87.333578	107.158962	0.100	0.070	S6	0.1			19.0	dO18_0210	
+PS122/2_20-4	2020-01-13	snow3-A6	87.333578	107.158962	0.070	0.040	S7	4.8			19.0	dO18_0211	
+PS122/2_20-4	2020-01-13	snow3-A6	87.333578	107.158962	0.030	0.000	S16	22.2			19.0	dO18_0212	
+PS122/2_20-80	2020-01-17	snow1-A5	87.506502	99.307938	0.105	0.075	S13	0.0			18.0	dO18_0202	
+PS122/2_20-80	2020-01-17	snow1-A5	87.506502	99.307938	0.075	0.045	AB	3.8			18.0	dO18_0203	
+PS122/2_20-80	2020-01-17	snow1-A5	87.506502	99.307938	0.030	0.000	S18	8.9			18.0	dO18_0204	
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.030	0.000	S10	0.4			18.0	dO18_0121	superimposed ice
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.195	0.165	S1	0.1			18.0	dO18_0205	
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.165	0.135	S11	0.0			18.0	dO18_0206	
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.135	0.105	S8	0.0			18.0	dO18_0207	
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.105	0.075	S3	0.0			18.0	dO18_0208	
+PS122/2_20-83	2020-01-17	snow2-A8	87.514281	99.409629	0.075	0.045	S2	0.0			18.0	dO18_0209	
+PS122/2_21-14	2020-01-20	snow1-A1	87.439326	97.619717	0.260	0.230	S3	0.1			18.0	dO18_0213	
+PS122/2_21-14	2020-01-20	snow1-A1	87.439326	97.619717	0.230	0.200	S15	0.0			18.0	dO18_0214	
+PS122/2_21-14	2020-01-20	snow1-A1	87.439326	97.619717	0.200	0.170	S19	0.0			18.0	dO18_0215	
+PS122/2_21-14	2020-01-20	snow1-A1	87.439326	97.619717	0.170	0.140	KL	0.0			18.0	dO18_0216	
+PS122/2_21-14	2020-01-20	snow1-A1	87.439326	97.619717	0.030	0.000	S4	0.5			18.0	dO18_0217	
+PS122/2_21-15	2020-01-20	snow2-A2	87.449599	97.423748	0.135	0.105	S9	0.0			18.0	dO18_0218	
+PS122/2_21-15	2020-01-20	snow2-A2	87.449599	97.423748	0.105	0.075	VA	0.0			18.0	dO18_0219	
+PS122/2_21-15	2020-01-20	snow2-A2	87.449599	97.423748	0.075	0.045	AA	0.0			18.0	dO18_0220	
+PS122/2_21-15	2020-01-20	snow2-A2	87.449599	97.423748	0.030	0.000	S20	0.0			18.0	dO18_0221	
+PS122/2_21-52	2020-01-22	snow1-A5	87.481129	95.067037	0.090	0.070	S11	0.0			20.0	dO18_0224	
+PS122/2_21-52	2020-01-22	snow1-A5	87.481129	95.067037	0.030	0.000	S16	4.0			20.0	dO18_0225	
+PS122/2_21-53	2020-01-22	snow3-A6	87.481958	95.106513	0.080	0.050	S1	0.8			19.5	dO18_0222	
+PS122/2_21-53	2020-01-22	snow3-A6	87.481958	95.106513	0.030	0.000	S2	20.4			19.5	dO18_0223	
+PS122/2_21-84	2020-01-23	RS3	87.448429	94.140424	0.120	0.090	AC	0.0			18.5	dO18_0101	RS3
+PS122/2_21-84	2020-01-23	RS3	87.448429	94.140424	0.090	0.060	S10	0.0			18.5	dO18_0102	RS3
+PS122/2_21-84	2020-01-23	RS3	87.448429	94.140424	0.060	0.030	AB	0.7			18.5	dO18_0103	RS3
+PS122/2_21-84	2020-01-23	RS3	87.448429	94.140424	0.030	0.000	VA	6.3			18.5	dO18_0106	RS3
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.260	0.230	S2	0.0			22.0	dO18_0226	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.230	0.200	S16	0.0			22.0	dO18_0227	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.200	0.170	VA	0.1			22.0	dO18_0228	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.170	0.140	S11	0.0			22.0	dO18_0229	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.140	0.110	S1	0.0			22.0	dO18_0230	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.110	0.080	AB	0.0			22.0	dO18_0231	
+PS122/2_21-96	2020-01-24	FR	87.421249	93.119838	0.050	0.000	S3	0.0			22.0	dO18_0232	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.080	0.050	S6	0.9			21.4	dO18_0242	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.030	0.000	AA	19.3			21.0	dO18_0243	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.095	0.065	S14	0.2			21.4	dO18_0245	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.030	0.000	S15	18.8			20.8	dO18_0246	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.110	0.080	S7	0.1			21.2	dO18_0247	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.030	0.000	S10	19.8			20.9	dO18_0248	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.105	0.075	S12	0.2			21.4	dO18_0249	
+PS122/2_22-43	2020-01-29	snow3-A6	87.470632	95.213880	0.030	0.000	S13	20.6			20.8	dO18_0250	
+PS122/2_22-46	2020-01-29	snow3-A6	87.470634	95.205497	0.060	0.030	AC	13.9			21.1	dO18_0251	
+PS122/2_22-46	2020-01-29	snow3-A6	87.470634	95.205497	0.400	0.370	S9	0.0			20.8	dO18_0252	
+PS122/2_22-46	2020-01-29	snow3-A6	87.470634	95.205497	0.220	0.180	KL	0.0			21.4	dO18_0253	
+PS122/2_22-46	2020-01-29	snow3-A6	87.470634	95.205497	0.030	0.000	S4	16.7			20.9	dO18_0254	
+PS122/2_22-5	2020-01-27	snow2-A8	87.444174	95.566683	0.170	0.140	S14	0.0			16.5	dO18_0233	
+PS122/2_22-5	2020-01-27	snow2-A8	87.444174	95.566683	0.140	0.110	S6	0.0			16.5	dO18_0238	
+PS122/2_22-5	2020-01-27	snow2-A8	87.444174	95.566683	0.110	0.080	S10	0.0			16.5	dO18_0239	
+PS122/2_22-5	2020-01-27	snow2-A8	87.444174	95.566683	0.080	0.050	S9	0.0			16.5	dO18_0240	
+PS122/2_22-5	2020-01-27	snow2-A8	87.444174	95.566683	0.050	0.020	S20	0.1			16.5	dO18_0241	
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.000	-0.020	S13	10.7			17.0	dO18_0111	sea ice flat
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.000	-0.020	S18	14.3			17.0	dO18_0112	sea ice rough
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.120	0.090	RR	3.9			17.0	dO18_0177	very saline snow
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.090	0.060	AA	9.9			17.0	dO18_0178	very saline snow
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.060	0.030	S15	14.0			17.0	dO18_0179	very saline snow
+PS122/2_22-6	2020-01-27	snow3-A6	87.447999	95.765049	0.030	0.000	S7	22.7			17.0	dO18_0180	very saline snow
+PS122/2_22-61	2020-01-30	RS3	87.459572	96.529555	0.260	0.230	S20	0.1			17.8	dO18_0264	
+PS122/2_22-61	2020-01-30	RS3	87.459572	96.529555	0.030	0.000	S18	3.5			18.0	dO18_0265	
+PS122/2_22-73	2020-01-31	snow1-A3	87.438508	96.476590	0.060	0.030	AB	1.7			18.0	dO18_0262	
+PS122/2_22-73	2020-01-31	snow1-A3	87.438508	96.476590	0.030	0.000	RR	16.0			17.8	dO18_0263	
+PS122/2_23-2	2020-02-03	ds-coring-FYI	87.421046	93.412738	0.085	0.055	S4	1.4			17.9	dO18_0255	
+PS122/2_23-2	2020-02-03	ds-coring-FYI	87.421046	93.412738	0.055	0.025	S10	5.7			17.8	dO18_0256	
+PS122/2_23-2	2020-02-03	ds-coring-FYI	87.421046	93.412738	0.030	0.000	AA	17.9			17.7	dO18_0257	
+PS122/2_23-34	2020-02-05	snow2-A2	87.532150	95.074940	0.110	0.080	S9	0.0			18.2	dO18_0274	
+PS122/2_23-34	2020-02-05	snow2-A2	87.532150	95.074940	0.080	0.050	S19	0.0			18.1	dO18_0275	
+PS122/2_23-34	2020-02-05	snow2-A2	87.532150	95.074940	0.050	0.020	S1	0.0			18.0	dO18_0276	
+PS122/2_23-34	2020-02-05	snow2-A2	87.532150	95.074940	0.030	0.000	S8	0.1			17.8	dO18_0277	
+PS122/2_23-53	2020-02-06	L3	87.605673	94.012638	0.145	0.120	S4	0.1			18.8	dO18_0283	
+PS122/2_23-53	2020-02-06	L3	87.605673	94.012638	0.035	0.000	RR	8.0			18.5	dO18_0284	
+PS122/2_23-73	2020-02-07	FR	87.636323	93.749778	0.460	0.430	S3	0.1			16.6	dO18_0272	
+PS122/2_23-73	2020-02-07	FR	87.636323	93.749778	0.030	0.000	AA	0.8			16.5	dO18_0273	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.010	0.000	B	9.5			18.0	dO18_0176	very hard crust
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.250	0.220	S15	0.0			16.1	dO18_0266	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.190	0.160	VA	0.0			17.5	dO18_0267	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.130	0.100	S10	0.0			16.8	dO18_0268	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.100	0.070	AB	0.0			17.5	dO18_0269	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.070	0.040	S2	1.4			18.3	dO18_0270	
+PS122/2_23-74	2020-02-07	snow1-A5	87.640855	93.778100	0.040	0.010	S20	2.4			18.0	dO18_0271	
+PS122/2_23-75	2020-02-06	RS-transect-north	87.611803	93.950906	0.030	0.000	S13	0.0			18.5	dO18_0058	from snow block from digging
+PS122/2_23-75	2020-02-06	RS-transect-north	87.611803	93.950906	0.230	0.200	S7	0.0			18.8	dO18_0281	
+PS122/2_23-76	2020-02-06	RS-transect-north	87.612386	93.945602	0.090	0.060	S18	0.0			17.6	dO18_0279	
+PS122/2_23-76	2020-02-06	RS-transect-north	87.612386	93.945602	0.030	0.000	S14	0.6			18.5	dO18_0285	
+PS122/2_23-77	2020-02-06	RS-transect-north	87.612868	93.941162	0.030	0.000	AC	0.0			17.8	dO18_0278	
+PS122/2_23-77	2020-02-06	RS-transect-north	87.612868	93.941162	0.165	0.135	S16	0.0			19.0	dO18_0286	
+PS122/2_23-9	2020-02-03	snow1-A1	87.408453	93.196676	0.240	0.210	AC	0.0			18.1	dO18_0258	
+PS122/2_23-9	2020-02-03	snow1-A1	87.408453	93.196676	0.210	0.180	S14	0.0			18.0	dO18_0259	
+PS122/2_23-9	2020-02-03	snow1-A1	87.408453	93.196676	0.180	0.150	KL	0.0			18.1	dO18_0260	
+PS122/2_23-9	2020-02-03	snow1-A1	87.408453	93.196676	0.150	0.120	S7	0.0			17.8	dO18_0261	
+PS122/2_24-112	2020-02-15	L1	88.068118	79.762696	0.050	0.000	S11	0.0			20.9	dO18_0350	
+PS122/2_24-112	2020-02-15	L1	88.068118	79.762696	0.270	0.240	S10	0.0			20.5	dO18_0353	
+PS122/2_24-113	2020-02-15	L2	88.068343	79.780367	0.030	0.000	S16	3.6			20.5	dO18_0351	
+PS122/2_24-113	2020-02-15	L2	88.068343	79.780367	0.110	0.080	S4	0.1			20.8	dO18_0352	
+PS122/2_24-14	2020-02-10	snow3-A6	87.777867	92.017269	0.090	0.060	S20	0.9			15.3	dO18_0292	
+PS122/2_24-14	2020-02-10	snow3-A6	87.777867	92.017269	0.060	0.030	AB	8.0			15.3	dO18_0293	
+PS122/2_24-14	2020-02-10	snow3-A6	87.777867	92.017269	0.030	0.000	S3	16.9			15.4	dO18_0294	
+PS122/2_24-15	2020-02-10	snow2-A8	87.785800	91.806571	0.150	0.120	S11	0.1			15.5	dO18_0287	
+PS122/2_24-15	2020-02-10	snow2-A8	87.785800	91.806571	0.120	0.090	S15	0.0			15.3	dO18_0288	
+PS122/2_24-15	2020-02-10	snow2-A8	87.785800	91.806571	0.090	0.060	S10	0.0			15.3	dO18_0289	
+PS122/2_24-15	2020-02-10	snow2-A8	87.785800	91.806571	0.060	0.030	S19	0.0			15.4	dO18_0290	
+PS122/2_24-15	2020-02-10	snow2-A8	87.785800	91.806571	0.030	0.000	S18	0.6			15.4	dO18_0291	
+PS122/2_24-35	2020-02-12	snow2-A10	87.861033	88.024284	0.560	0.530	VA	0.0			20.5	dO18_0072	not taken as dO18 sample
+PS122/2_24-35	2020-02-12	snow2-A10	87.861033	88.024284	0.260	0.230	KL	0.1			20.7	dO18_0077	not taken as dO18 sample
+PS122/2_24-35	2020-02-12	snow2-A10	87.861033	88.024284	0.050	0.020	S3	1.5			20.7	dO18_0081	not taken as dO18 sample
+PS122/2_24-81	2020-02-15	RS3	88.068786	79.810557	0.110	0.140	S15	0.0			20.8	dO18_0073	not taken as dO18 sample
+PS122/2_24-81	2020-02-15	RS3	88.068786	79.810557	0.020	0.050	M	0.1			20.8	dO18_0078	not taken as dO18 sample
+PS122/2_24-81	2020-02-15	RS3	88.068786	79.810557	0.000	0.020	S2	2.4			20.6	dO18_0083	not taken as dO18 sample
+PS122/2_24-86	2020-02-16	snow1-A3	88.066823	79.750064	0.160	0.130	S20	0.0			20.5	dO18_0345	
+PS122/2_24-86	2020-02-16	snow1-A3	88.066823	79.750064	0.130	0.100	S7	0.0			20.6	dO18_0346	
+PS122/2_24-86	2020-02-16	snow1-A3	88.066823	79.750064	0.100	0.070	S18	0.0			20.4	dO18_0347	
+PS122/2_24-86	2020-02-16	snow1-A3	88.066823	79.750064	0.070	0.040	S1	9.0			20.0	dO18_0348	
+PS122/2_24-86	2020-02-16	snow1-A3	88.066823	79.750064	0.040	0.010	AB	12.2			20.6	dO18_0349	
+PS122/2_25-22	2020-02-17	snow2-A2	88.072472	79.234834	0.120	0.090	S19	0.1			20.2	dO18_0341	
+PS122/2_25-22	2020-02-17	snow2-A2	88.072472	79.234834	0.090	0.060	S9	0.0			20.6	dO18_0342	
+PS122/2_25-22	2020-02-17	snow2-A2	88.072472	79.234834	0.060	0.030	S13	0.0			20.3	dO18_0343	
+PS122/2_25-22	2020-02-17	snow2-A2	88.072472	79.234834	0.030	0.000	B	0.0			20.1	dO18_0344	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.210	0.180	RR	0.1			20.3	dO18_0334	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.180	0.150	S8	0.0			20.4	dO18_0335	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.150	0.120	S12	0.0			20.5	dO18_0336	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.120	0.090	S14	0.0			20.1	dO18_0337	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.090	0.060	AC	0.2			20.2	dO18_0338	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.060	0.030	S21(Tuper)	1.6			20.2	dO18_0339	
+PS122/2_25-23	2020-02-17	snow1-A1	88.073080	78.970063	0.030	0.000	AA	3.9			20.5	dO18_0340	
+PS122/2_25-59	2020-02-20	RS3	88.382455	68.840467	0.095	0.080	S4	0.0			18.0	dO18_0074	not taken as dO18 sample
+PS122/2_25-59	2020-02-20	RS3	88.382455	68.840467	0.020	0.000	S11	1.5			17.9	dO18_0082	not taken as dO18 sample
+PS122/2_25-80	2020-02-21	snow1-A5	88.478687	66.945536	0.080	0.050	S3	0.1			17.7	dO18_0354	
+PS122/2_25-80	2020-02-21	snow1-A5	88.478687	66.945536	0.050	0.020	S19	1.1			17.7	dO18_0355	
+PS122/2_25-80	2020-02-21	snow1-A5	88.478687	66.945536	0.030	0.000	B	13.6			17.6	dO18_0356	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.400	0.370	S8	0.0			18.3	dO18_0075	not taken as dO18 sample
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.200	0.170	S15	0.0			17.8	dO18_0076	not taken as dO18 sample
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.800	0.770	AC	0.1			18.1	dO18_0079	not taken as dO18 sample
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.600	0.570	S10	0.1			18.1	dO18_0080	not taken as dO18 sample
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.870	0.840	S12	0.1			17.7	dO18_0357	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.700	0.670	S9	0.1			17.8	dO18_0358	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.500	0.470	AA	0.0			18.0	dO18_0359	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.300	0.270	S16	0.0			17.5	dO18_0360	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.100	0.070	RR	0.0			17.8	dO18_0361	
+PS122/2_25-81	2020-02-21	FR	88.499097	66.505657	0.000	0.030	M	0.0			17.9	dO18_0362	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.250	0.220	S7	0.1			17.0	dO18_0369	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.200	0.170	S8	0.1			16.6	dO18_0370	duplicate d18O samples
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.170	0.140	S18	0.2			16.4	dO18_0370	duplicate d18O samples
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.140	0.110	S1	0.1			16.9	dO18_0371	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.110	0.080	AA	0.1			16.8	dO18_0372	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.080	0.050	S14	1.8			16.4	dO18_0373	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.040	0.010	B	12.0			16.9	dO18_0374	
+PS122/3_29-28	2020-02-26	snow1-A3	88.507153	41.149214	0.020	0.000	S9	13.0			16.6	dO18_0375	
+PS122/3_29-43	2020-02-27	RS3	88.414050	36.848866	0.100	0.070	BAB	0.1			15.3	dO18_0363	
+PS122/3_29-43	2020-02-27	RS3	88.414050	36.848866	0.070	0.040	ION120	0.0			15.8	dO18_0364	
+PS122/3_29-43	2020-02-27	RS3	88.414050	36.848866	0.030	0.000	ION119	1.2			15.8	dO18_0365	
+PS122/3_29-9	2020-02-25	snow2-A8	88.560159	45.682791	0.220	0.190	KL	0.0			16.7	dO18_0376	
+PS122/3_29-9	2020-02-25	snow2-A8	88.560159	45.682791	0.190	0.160	S20	0.1			16.4	dO18_0377	
+PS122/3_29-9	2020-02-25	snow2-A8	88.560159	45.682791	0.160	0.130	S13	0.0			16.4	dO18_0379	
+PS122/3_29-9	2020-02-25	snow2-A8	88.560159	45.682791	0.130	0.100	AB	0.0			16.7	dO18_0380	
+PS122/3_29-9	2020-02-25	snow2-A8	88.560159	45.682791	0.040	0.010	S19	1.1			16.9	dO18_0381	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.190	0.160	S9	0.0				dO18_0160	two S9
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.280	0.250	B	0.0			17.9	dO18_0408	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.220	0.190	S18	0.0			18.0	dO18_0409	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.160	0.130	KL	0.0			17.8	dO18_0410	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.130	0.100	S14	0.0			17.6	dO18_0413	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.100	0.070	S1	0.0			17.9	dO18_0414	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.070	0.040	S2	0.0			18.0	dO18_0415	
+PS122/3_30-17	2020-03-02	snow2-A2	88.181497	31.002182	0.040	0.010	VA	0.0			17.9	dO18_0416	
+PS122/3_30-25	2020-03-04	snow1-A1	88.096915	30.487691	0.200	0.170	S13	0.0			17.9	dO18_0403	
+PS122/3_30-25	2020-03-04	snow1-A1	88.096915	30.487691	0.170	0.140	S20	0.0			17.6	dO18_0404	
+PS122/3_30-25	2020-03-04	snow1-A1	88.096915	30.487691	0.140	0.110	S12	0.0			18.2	dO18_0405	
+PS122/3_30-25	2020-03-04	snow1-A1	88.096915	30.487691	0.110	0.080	S7	0.0			17.6	dO18_0406	
+PS122/3_30-25	2020-03-04	snow1-A1	88.096915	30.487691	0.080	0.050	AB	1.0			18.0	dO18_0407	
+PS122/3_30-61	2020-03-06	RS3	88.101065	29.711328	0.070	0.040	A	0.0			21.0	dO18_0417	
+PS122/3_30-61	2020-03-06	RS3	88.101065	29.711328	0.040	0.010	B	0.6			20.2	dO18_0420	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.270	0.240	O	0.1			20.3	dO18_0430	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.240	0.210	N	0.1			21.1	dO18_0431	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.210	0.180	M	0.1			20.9	dO18_0432	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.180	0.150	K	0.1			20.3	dO18_0433	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.150	0.120	L	0.1			20.4	dO18_0434	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.120	0.090	J	0.1			21.0	dO18_0435	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.090	0.060	H	0.1			21.3	dO18_0436	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.060	0.030	I	4.9			21.0	dO18_0437	
+PS122/3_31-55	2020-03-11	snow1-A5	87.673170	24.578734	0.030	0.000	G	10.7			20.7	dO18_0438	
+PS122/3_31-79	2020-03-15	snow2-A2	87.069843	15.402400	0.130	0.100	E	0.0			20.6	dO18_0425	
+PS122/3_31-79	2020-03-15	snow2-A2	87.069843	15.402400	0.160	0.130	Y	0.1			21.3	dO18_0426	
+PS122/3_31-79	2020-03-15	snow2-A2	87.069843	15.402400	0.190	0.160	V	0.0			21.0	dO18_0427	
+PS122/3_31-79	2020-03-15	snow2-A2	87.069843	15.402400	0.220	0.190	Q	0.1			20.8	dO18_0428	
+PS122/3_31-79	2020-03-15	snow2-A2	87.069843	15.402400	0.250	0.220	R	0.1			20.6	dO18_0429	
+PS122/3_32-22	2020-03-16	lead-flux	86.898816	12.867117	0.010	0.000	W	61.7			21.8	dO18_0439	
+PS122/3_32-59	2020-03-20	snow2-A8	86.336028	14.779778	0.140	0.110	C	0.1			19.5	dO18_0444	
+PS122/3_32-59	2020-03-20	snow2-A8	86.336028	14.779778	0.110	0.080	L	0.0			19.7	dO18_0445	
+PS122/3_32-59	2020-03-20	snow2-A8	86.336028	14.779778	0.080	0.050	N	0.0			19.8	dO18_0446	
+PS122/3_32-59	2020-03-20	snow2-A8	86.336028	14.779778	0.050	0.020	A	0.5			19.5	dO18_0447	
+PS122/3_32-61	2020-03-21	ds-coring-FYI	86.264096	15.149762	0.130	0.100	Q	0.1			19.9	dO18_0440	
+PS122/3_32-61	2020-03-21	ds-coring-FYI	86.264096	15.149762	0.100	0.070	D	0.1			19.3	dO18_0441	
+PS122/3_32-61	2020-03-21	ds-coring-FYI	86.264096	15.149762	0.070	0.040	G	0.0			19.7	dO18_0442	
+PS122/3_32-61	2020-03-21	ds-coring-FYI	86.264096	15.149762	0.040	0.010	E	4.5			19.4	dO18_0443	
+PS122/3_32-88	2020-03-22	snow1-A5	86.229603	15.682993	0.160	0.130	I	0.1			19.4	dO18_0457	
+PS122/3_32-88	2020-03-22	snow1-A5	86.229603	15.682993	0.130	0.100	K	0.1			20.4	dO18_0458	
+PS122/3_32-88	2020-03-22	snow1-A5	86.229603	15.682993	0.100	0.070	J	0.1			19.7	dO18_0459	
+PS122/3_32-88	2020-03-22	snow1-A5	86.229603	15.682993	0.070	0.040	H	1.0			19.9	dO18_0460	
+PS122/3_32-88	2020-03-22	snow1-A5	86.229603	15.682993	0.040	0.010	B	11.2			20.2	dO18_0461	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.300	0.270	U	0.1			18.7	dO18_0448	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.270	0.240	S	0.1			19.3	dO18_0449	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.240	0.210	W	0.0			20.6	dO18_0450	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.210	0.180	P	0.1			19.4	dO18_0451	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.180	0.150	O	0.1			20.0	dO18_0452	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.150	0.120	T	0.0			19.5	dO18_0453	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.120	0.090	F	0.0			19.9	dO18_0454	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.090	0.060	M	4.8			19.9	dO18_0455	
+PS122/3_32-92	2020-03-22	snow1-A3	86.227619	15.710508	0.060	0.030	Y	11.9			19.6	dO18_0456	
+PS122/3_33-41	2020-03-25	snow2-A2	86.129983	14.303533	0.150	0.120	P	0.0			19.4	dO18_0462	
+PS122/3_33-41	2020-03-25	snow2-A2	86.129983	14.303533	0.120	0.090	L	0.0			19.1	dO18_0463	
+PS122/3_33-41	2020-03-25	snow2-A2	86.129983	14.303533	0.090	0.060	V	0.1			19.1	dO18_0464	
+PS122/3_33-41	2020-03-25	snow2-A2	86.129983	14.303533	0.060	0.030	E	0.1			19.1	dO18_0465	
+PS122/3_34-34	2020-04-01	snow2-A2	85.121823	15.504967	0.140	0.110	K	0.4			21.6	dO18_0108	SALINE TOP LAYER
+PS122/3_34-34	2020-04-01	snow2-A2	85.121823	15.504967	0.110	0.080	B	0.2			21.2	dO18_0467	
+PS122/3_34-34	2020-04-01	snow2-A2	85.121823	15.504967	0.080	0.050	T	0.0			21.3	dO18_0468	
+PS122/3_34-34	2020-04-01	snow2-A2	85.121823	15.504967	0.050	0.020	M	0.2			21.1	dO18_0469	
+PS122/3_34-45	2020-04-02	snow1-A5	84.971908	15.129610	0.070	0.040	A	0.8			22.6	dO18_0466	
+PS122/3_35-23	2020-04-06	ds-coring-SYI	84.541147	14.185918	0.160	0.130	G	0.0			21.7	dO18_0482	
+PS122/3_35-23	2020-04-06	ds-coring-SYI	84.541147	14.185918	0.130	0.100	F	0.0			21.6	dO18_0483	
+PS122/3_35-23	2020-04-06	ds-coring-SYI	84.541147	14.185918	0.070	0.040	Y	0.0			21.8	dO18_0484	
+PS122/3_35-23	2020-04-06	ds-coring-SYI	84.541147	14.185918	0.040	0.010	W	0.0			21.5	dO18_0485	
+PS122/3_35-53	2020-04-08	RS4	84.483007	14.628226	0.150	0.120	E	0.1			22.3	dO18_0477	
+PS122/3_35-53	2020-04-08	RS4	84.483007	14.628226	0.120	0.090	V	0.0			21.7	dO18_0478	
+PS122/3_35-53	2020-04-08	RS4	84.483007	14.628226	0.090	0.060	H	0.0			21.5	dO18_0479	
+PS122/3_35-53	2020-04-08	RS4	84.483007	14.628226	0.060	0.030	O	2.2			21.8	dO18_0480	
+PS122/3_35-53	2020-04-08	RS4	84.483007	14.628226	0.030	0.000	N	6.8			22.0	dO18_0481	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.270	0.240	Q	0.1			21.2	dO18_0470	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.210	0.180	S	0.1			21.6	dO18_0471	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.150	0.120	I	0.1			21.9	dO18_0472	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.120	0.090	L	0.1			21.4	dO18_0473	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.090	0.060	J	1.1			22.3	dO18_0474	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.060	0.030	C	9.0			21.9	dO18_0475	
+PS122/3_35-56	2020-04-08	snow1-A3	84.478591	14.693862	0.030	0.000	D	12.6			22.2	dO18_0476	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.220	0.190	B	0.0			23.5	dO18_0486	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.070	0.040	C	2.1			23.2	dO18_0487	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.130	0.100	Y	0.1			23.4	dO18_0488	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.190	0.160	H	0.1			23.2	dO18_0489	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.160	0.130	J	0.1			24.0	dO18_0504	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.100	0.070	W	0.0			23.9	dO18_0505	
+PS122/3_36-103	2020-04-16	RS4	84.350349	13.090793	0.040	0.010	M	7.6			23.6	dO18_0506	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.170	0.140	F	0.1			22.5	dO18_0490	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.140	0.110	V	0.1			21.8	dO18_0491	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.110	0.080	O	0.1			22.6	dO18_0492	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.080	0.050	G	0.1			22.1	dO18_0493	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.050	0.030	T	1.8			22.5	dO18_0494	
+PS122/3_36-14	2020-04-13	snow1-A5*	84.293257	14.959879	0.030	0.000	S	7.5			22.5	dO18_0495	
+PS122/3_36-35	2020-04-15	snow2-A2	84.326425	14.021571	0.095	0.065	I	0.0			23.9	dO18_0496	
+PS122/3_36-35	2020-04-15	snow2-A2	84.326425	14.021571	0.070	0.040	K	0.0			23.3	dO18_0497	
+PS122/3_36-35	2020-04-15	snow2-A2	84.326425	14.021571	0.040	0.010	L	0.0			22.5	dO18_0498	
+PS122/3_36-99	2020-04-16	ds-coring-FYI	84.314318	13.144333	0.150	0.120	q	0.1			23.2	dO18_0499	
+PS122/3_36-99	2020-04-16	ds-coring-FYI	84.314318	13.144333	0.120	0.090	d	0.0			22.4	dO18_0500	
+PS122/3_36-99	2020-04-16	ds-coring-FYI	84.314318	13.144333	0.090	0.060	e	0.0			23.8	dO18_0501	
+PS122/3_36-99	2020-04-16	ds-coring-FYI	84.314318	13.144333	0.060	0.030	n	1.4			23.2	dO18_0502	
+PS122/3_36-99	2020-04-16	ds-coring-FYI	84.314318	13.144333	0.030	0.000	a	3.7			24.0	dO18_0503	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.340	0.310	M	0.3			22.6	dO18_0533	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.220	0.190	D	0.1			22.8	dO18_0534	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.190	0.160	G	0.1			22.9	dO18_0535	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.100	0.070	A	0.0			22.8	dO18_0536	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.070	0.040	B	2.2			22.3	dO18_0537	
+PS122/3_37-129	2020-04-25	L1	84.013007	15.628248	0.040	0.010	Q	8.7			22.7	dO18_0538	
+PS122/3_37-132	2020-04-26	RS4	83.920737	15.508356	0.140	0.110	F	0.0			21.8	dO18_0539	
+PS122/3_37-132	2020-04-26	RS4	83.920737	15.508356	0.110	0.080	C	0.0			22.1	dO18_0540	
+PS122/3_37-132	2020-04-26	RS4	83.920737	15.508356	0.080	0.050	O	0.8			22.3	dO18_0541	
+PS122/3_37-132	2020-04-26	RS4	83.920737	15.508356	0.050	0.020	H	5.5			22.7	dO18_0542	
+PS122/3_37-132	2020-04-26	RS4	83.920737	15.508356	0.020	0.000	A	5.2			22.2	dO18_0543	
+PS122/3_37-39	2020-04-22	radiation-stn	84.140663	15.880081	0.090	0.000	U	0.0			19.4	dO18_0507	
+PS122/3_37-41	2020-04-22	snow2-A2	84.119576	15.942104	0.105	0.075	N	0.0			20.0	dO18_0508	
+PS122/3_37-41	2020-04-22	snow2-A2	84.119576	15.942104	0.075	0.045	C	0.0			19.4	dO18_0509	
+PS122/3_37-41	2020-04-22	snow2-A2	84.119576	15.942104	0.035	0.005	D	1.0			19.6	dO18_0510	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.790	0.760	O	0.1			19.6	dO18_0511	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.730	0.700	H	0.1			19.3	dO18_0512	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.670	0.640	S	0.1			19.9	dO18_0513	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.610	0.580	Q	0.1			19.4	dO18_0514	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.550	0.520	K	0.0			19.4	dO18_0515	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.490	0.460	I	0.0			19.3	dO18_0522	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.430	0.400	G	0.0			19.3	dO18_0523	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.370	0.340	M	0.0			19.1	dO18_0524	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.310	0.280	Y	0.2			19.0	dO18_0525	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.250	0.220	B	0.0			19.3	dO18_0526	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.190	0.160	W	0.0			19.3	dO18_0527	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.130	0.100	T	0.0			19.3	dO18_0528	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.100	0.070	F	0.0			19.2	dO18_0529	
+PS122/3_37-57	2020-04-23	DR	84.072866	16.030914	0.070	0.040	V	0.0			19.4	dO18_0530	
+PS122/3_37-68	2020-04-24	snow2-lead	84.057186	15.932178	0.050	0.020	J	54.0			9.3	dO18_0531	
+PS122/3_37-68	2020-04-24	snow2-lead	84.057186	15.932178	0.030	0.000	R34	41.3			11.4	dO18_0532	
+PS122/3_38-1	2020-04-27	snow2-A2	83.924284	15.628168	0.095	0.065	Y	0.0			21.6	dO18_0544	
+PS122/3_38-1	2020-04-27	snow2-A2	83.924284	15.628168	0.060	0.030	K	0.0			22.2	dO18_0545	
+PS122/3_38-1	2020-04-27	snow2-A2	83.924284	15.628168	0.030	0.000	W	0.3			22.7	dO18_0546	
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.218	0.188	G	0.0			19.4	dO18_0556	duplicate d18O samples
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.180	0.150	L	0.1			19.7	dO18_0556	duplicate d18O samples
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.150	0.120	Y	0.1			19.5	dO18_0557	duplicate d18O samples
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.120	0.090	E	0.1			19.5	dO18_0557	duplicate d18O samples
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.090	0.060	N	0.1			19.7	dO18_0558	
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.060	0.030	T	0.7			19.5	dO18_0559	
+PS122/3_38-141	2020-05-03	ds-coring-FYI*	83.885417	17.949331	0.030	0.000	D	7.5			19.7	dO18_0560	
+PS122/3_38-4	2020-04-27	snow1-A5*	83.933343	15.633877	0.065	0.030	I	1.2			22.2	dO18_0548	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.490	0.460	K	0.1			19.5	dO18_0547	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.460	0.430	F	0.0			19.5	dO18_0549	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.430	0.400	C	0.1			19.3	dO18_0550	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.340	0.310	J	0.1			19.8	dO18_0551	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.270	0.240	B	0.1			20.1	dO18_0552	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.190	0.160	W	0.0			19.4	dO18_0553	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.100	0.070	I	0.0			19.8	dO18_0554	
+PS122/3_38-51	2020-04-30	L2	83.936435	17.459645	0.030	0.000	Q	0.1			19.9	dO18_0555	
+PS122/3_38-95	2020-05-01	RS4	83.919984	17.685050	0.145	0.115	S	0.0			19.7	dO18_0561	
+PS122/3_38-95	2020-05-01	RS4	83.919984	17.685050	0.120	0.090	M	0.1			19.5	dO18_0562	
+PS122/3_38-95	2020-05-01	RS4	83.919984	17.685050	0.090	0.060	O	0.1			19.6	dO18_0564	
+PS122/3_38-95	2020-05-01	RS4	83.919984	17.685050	0.060	0.030	V	2.1			19.8	dO18_0565	
+PS122/3_38-95	2020-05-01	RS4	83.919984	17.685050	0.030	0.000	H	6.4			19.6	dO18_0567	
+PS122/3_39-45	2020-05-04	snow1-transect	83.905748	18.346132	0.030	0.000	A	9.1			22.0	dO18_0586	
+PS122/3_39-45	2020-05-04	snow1-transect	83.905748	18.346132	0.075	0.045	M	0.1			21.8	dO18_0587	
+PS122/3_39-46	2020-05-04	snow1-A5*	83.907986	18.352127	0.095	0.065	F	0.1			21.6	dO18_0568	
+PS122/3_39-46	2020-05-04	snow1-A5*	83.907986	18.352127	0.060	0.030	Q	0.7			21.2	dO18_0569	
+PS122/3_39-46	2020-05-04	snow1-A5*	83.907986	18.352127	0.030	0.000	K	7.5			21.3	dO18_0570	
+PS122/3_39-48	2020-05-06	L3	83.921527	17.672559	0.185	0.155	T	0.0			21.3	dO18_0571	
+PS122/3_39-48	2020-05-06	L3	83.921527	17.672559	0.160	0.130	H	0.1			21.3	dO18_0572	
+PS122/3_39-48	2020-05-06	L3	83.921527	17.672559	0.130	0.100	G	0.0			21.2	dO18_0573	
+PS122/3_39-48	2020-05-06	L3	83.921527	17.672559	0.100	0.070	B	0.0			21.1	dO18_0574	
+PS122/3_39-48	2020-05-06	L3	83.921527	17.672559	0.070	0.040	D	0.0			21.1	dO18_0575	
+PS122/3_39-88	2020-05-09	snow2-A2	83.791626	14.137251	0.100	0.070	J	0.0			21.3	dO18_0576	
+PS122/3_39-88	2020-05-09	snow2-A2	83.791626	14.137251	0.040	0.010	S	0.4			21.0	dO18_0577	
+PS122/3_39-91	2020-05-09	radiation-stn	83.768960	13.956977	0.030	0.000	Y	0.0			22.1	dO18_0578	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.360	0.330	L	0.1				dO18_0579	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.300	0.270	I	0.0			21.5	dO18_0580	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.180	0.150	W	0.0			21.2	dO18_0582	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.120	0.090	O	0.0			23.3	dO18_0583	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.060	0.030	C	0.0			22.0	dO18_0584	
+PS122/3_39-92	2020-05-10	snow1-A3	83.658609	13.462538	0.030	0.000	V	2.5			22.3	dO18_0585	
+PS122/4_44-156	2020-06-22	ds-coring-FYI*	81.983694	9.337652	0.070	0.040	J	0.0			19.8	dO18_0591	
+PS122/4_44-156	2020-06-22	ds-coring-FYI*	81.983694	9.337652	0.100	0.070	K	0.0			20.6	dO18_0592	
+PS122/4_44-156	2020-06-22	ds-coring-FYI*	81.983694	9.337652	0.040	0.010	Y	0.0			20.1	dO18_0593	
+PS122/4_44-156	2020-06-22	ds-coring-FYI*	81.983694	9.337652	0.010	-0.040	Q	0.1			19.0	dO18_0594	
+PS122/4_44-193	2020-06-27	optics-transect-ROV	81.935143	9.842092	0.030	0.000	AD	0.0				dO18_0615	
+PS122/4_44-193	2020-06-27	optics-transect-ROV	81.935143	9.842092	0.030	0.000	AE	0.0				dO18_0616	
+PS122/4_44-215	2020-06-27	Met-City-Ridge	81.967488	9.909812	0.320	0.290	O	0.0			24.0	dO18_0595	
+PS122/4_44-215	2020-06-27	Met-City-Ridge	81.967488	9.909812	0.260	0.230	V	0.0			24.0	dO18_0596	
+PS122/4_44-215	2020-06-27	Met-City-Ridge	81.967488	9.909812	0.200	0.170	A	0.0			23.7	dO18_0597	
+PS122/4_44-216	2020-06-28	Met-City-Ridge	81.873215	9.472671	0.400	0.370	Y	0.0			23.9	dO18_0598	
+PS122/4_44-216	2020-06-28	Met-City-Ridge	81.873215	9.472671	0.030	0.000	M	0.0			23.9	dO18_0600	
+PS122/4_44-45	2020-06-13	Port	82.149102	7.694608	0.030	0.060	C	0.0			20.1	dO18_0590	
+PS122/4_44-47	2020-06-13	Port	82.130768	7.702773	0.410	0.390	L	0.0			20.1	dO18_0588	
+PS122/4_44-47	2020-06-13	Port	82.130768	7.702773	0.230	0.190	B	0.0			19.9	dO18_0589	
+PS122/4_45-107	2020-07-04	optics-transect-ROV	81.706618	6.735446	0.050	0.020	Y	0.0				dO18_0629	
+PS122/4_45-107	2020-07-04	optics-transect-ROV	81.706618	6.735446	0.020	0.000	Y	0.0				dO18_0630	
+PS122/4_45-108	2020-07-04	RS5-A1	81.710941	6.682929	0.300	0.200	T	0.0				dO18_0162	uCT holder
+PS122/4_45-16	2020-06-30	SYI-behindAlisRidge	81.798226	8.980105	0.110	0.080	S	0.0			22.6	dO18_0601	
+PS122/4_45-16	2020-06-30	SYI-behindAlisRidge	81.798226	8.980105	0.080	0.050	C	0.0			23.5	dO18_0602	
+PS122/4_45-16	2020-06-30	SYI-behindAlisRidge	81.798226	8.980105	0.050	0.020	B	0.0			24.3	dO18_0603	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.470	0.440	K	0.0			23.1	dO18_0604	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.440	0.410	T	0.0			23.1	dO18_0605	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.410	0.380	L	0.0			22.2	dO18_0606	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.350	0.320	H	0.0			22.3	dO18_0607	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.290	0.260	Q	0.0			23.1	dO18_0608	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.200	0.170	D	0.0			24.4	dO18_0609	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.140	0.110	I	0.0			23.5	dO18_0610	
+PS122/4_45-18	2020-06-30	RS5-A1	81.788426	8.964891	0.080	0.050	F	0.0			22.5	dO18_0611	
+PS122/4_45-8	2020-06-29	radiation-stn	81.825549	9.156658	0.100	0.060	Z	0.0				dO18_0051	dirty cup with parafin
+PS122/4_45-8	2020-06-29	radiation-stn	81.825549	9.156658	0.060	0.030	Z	0.0				dO18_0052	dirty cup with parafin
+PS122/4_45-8	2020-06-29	radiation-stn	81.825549	9.156658	0.030	0.000	Z	0.0				dO18_0053	dirty cup with parafin
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.690	0.660	M	0.0			20.5	dO18_0618	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.630	0.600	K	0.0			20.5	dO18_0619	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.570	0.540	Q	0.0			20.8	dO18_0620	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.510	0.480	C	0.0			21.2	dO18_0621	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.450	0.420	S	0.0			21.2	dO18_0622	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.360	0.330	Y	0.0			20.9	dO18_0623	
+PS122/4_45-87	2020-07-03	Jaridge	81.677239	7.754624	0.270	0.240	I	0.0			21.2	dO18_0624	
+PS122/4_46-104	2020-07-10	optics-stern	81.514745	2.400324	0.000	-0.040	T	0.0				dO18_0638	
+PS122/4_46-104	2020-07-10	optics-stern	81.514745	2.400324	0.025	0.000	B	0.0				dO18_0640	
+PS122/4_46-106	2020-07-10	optics-stern	81.500635	2.338499	0.100	0.000	AC	0.0				dO18_0167	uCT holder
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.050	0.020	Y	0.0				dO18_0645	
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.140	0.110	E	0.0				dO18_0646	
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.290	0.260	W	0.0				dO18_0647	
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.170	0.140	I	0.0				dO18_0648	
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.470	0.440	D	0.0				dO18_0649	
+PS122/4_46-107	2020-07-10	RS5-A2	81.484837	2.198497	0.380	0.350	O	0.0				dO18_0663	
+PS122/4_46-108	2020-07-10	optics-stern	81.482747	2.155989	0.020	0.000	N	0.0				dO18_0015	albedo point 5B
+PS122/4_46-109	2020-07-10	optics-METcity	81.481578	2.128539	0.015	0.000	V	0.0				dO18_0012	albedo point 2
+PS122/4_46-109	2020-07-10	optics-METcity	81.481578	2.128539	0.030	0.000	K	0.0				dO18_0018	albedo point 6
+PS122/4_46-110	2020-07-11	RS5-A2	81.474195	1.950558	0.000	0.000	U	0.0				dO18_0168	uCT holder
+PS122/4_46-111	2020-07-11	optics-stern	81.472587	1.910245	0.040	0.000	F	0.0				dO18_0013	albedo point 5A
+PS122/4_46-111	2020-07-11	optics-stern	81.472587	1.910245	0.035	0.000	J	0.0				dO18_0016	albedo point 5B
+PS122/4_46-112	2020-07-11	optics-stern	81.459104	1.741790	0.090	0.000	A	0.0				dO18_0009	albedo point 1A
+PS122/4_46-112	2020-07-11	optics-stern	81.459104	1.741790	0.035	0.000	H	0.0				dO18_0014	albedo point 5A
+PS122/4_46-112	2020-07-11	optics-stern	81.459104	1.741790	0.030	0.000	G	0.0				dO18_0017	albedo point 5B
+PS122/4_46-112	2020-07-11	optics-stern	81.459104	1.741790	0.100	0.000	W	0.0				dO18_0165	uCT holder
+PS122/4_46-135	2020-07-11	RS5-A2	81.456558	1.716194	0.000	0.000	R	0.0				dO18_0163	uCT holder
+PS122/4_46-181	2020-07-06	ds-coring-FYI*	81.698446	5.603430	0.030	0.000		0.0				dO18_0059	FYI coring team took dO18 surface snow/SSL sample
+PS122/4_46-29	2020-07-06	SYI-behindAlisRidge	81.696315	5.582930	0.090	0.060	D	0.0				dO18_0625	
+PS122/4_46-29	2020-07-06	SYI-behindAlisRidge	81.696315	5.582930	0.060	0.030	O	0.0				dO18_0626	
+PS122/4_46-29	2020-07-06	SYI-behindAlisRidge	81.696315	5.582930	0.030	0.000	N	0.0				dO18_0627	
+PS122/4_46-29	2020-07-06	SYI-behindAlisRidge	81.696315	5.582930	0.000	-0.030	V	0.0				dO18_0628	
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	0.065	0.000	Z	0.0				dO18_0169	uCT holder
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	0.075	0.000	X	0.0				dO18_0174	uCT holder
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	0.050	0.020	Q	0.0				dO18_0650	
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	0.030	0.000	C	0.0				dO18_0651	
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	0.000	-0.030	L	0.0				dO18_0652	
+PS122/4_47-22	2020-07-13	ds-coring-FYI*	81.425052	0.316621	-0.030	-0.060	S	0.0				dO18_0653	
+PS122/4_47-66	2020-07-15	radiation-stn	81.300986	0.330837	0.090	0.000	V	0.0				dO18_0164	uCT holder
+PS122/4_47-66	2020-07-15	radiation-stn	81.300986	0.330837	0.110	0.000	AE	0.0				dO18_0173	uCT holder
+PS122/4_47-76	2020-07-16	optics-stern	81.223275	0.278991	0.080	0.000	L	0.0				dO18_0170	uCT holder
+PS122/4_47-76	2020-07-16	optics-stern	81.223275	0.278991	0.050	0.000	Q	0.0				dO18_0171	uCT holder
+PS122/4_47-76	2020-07-16	optics-stern	81.223275	0.278991	0.045	0.000	AF	0.0				dO18_0172	uCT holder
+PS122/4_47-77	2020-07-15	optics-transect-SYI	81.300299	0.329165	0.000	0.000	AB	0.0				dO18_0166	uCT holder
+PS122/4_48-142	2020-07-24	Jaridge	80.198576	-0.575309	0.070	0.035	V	0.0				dO18_0692	
+PS122/4_48-142	2020-07-24	Jaridge	80.198576	-0.575309	0.035	0.000	V	0.0				dO18_0695	
+PS122/4_48-143	2020-07-24	Jaridge	80.194934	-0.579205	0.050	0.000	M	0.0				dO18_0699	
+PS122/4_48-144	2020-07-24	Jaridge	80.190981	-0.584618	0.060	0.000	L	0.0				dO18_0685	
+PS122/4_48-145	2020-07-24	Jaridge	80.187280	-0.590886	0.050	0.000	U	0.0				dO18_0690	
+PS122/4_48-146	2020-07-25	Met-City-Ridge	79.992951	-0.653278	0.070	0.040	S	0.0				dO18_0661	
+PS122/4_48-146	2020-07-25	Met-City-Ridge	79.992951	-0.653278	0.040	0.010	N	0.0				dO18_0662	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.090	0.060	K	0.0				dO18_0665	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.120	0.090	Q	0.0				dO18_0666	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.060	0.030	L	0.0				dO18_0667	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.150	0.120	C	0.0				dO18_0668	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.180	0.150	T	0.0				dO18_0669	
+PS122/4_48-177	2020-07-26	RS5-A3	79.797172	-1.741012	0.030	0.000	G	0.0				dO18_0672	
+PS122/4_48-40	2020-07-20	ds-coring-FYI*	80.782392	-0.440613	0.060	0.030	T	0.0				dO18_0654	
+PS122/4_48-40	2020-07-20	ds-coring-FYI*	80.782392	-0.440613	0.030	0.000	V	0.0				dO18_0655	
+PS122/4_48-40	2020-07-20	ds-coring-FYI*	80.782392	-0.440613	0.000	-0.030	W	0.0				dO18_0656	
+PS122/4_48-41	2020-07-20	optics-ECO	80.754259	-0.501642	0.000	-0.010	A	0.0				dO18_0057	dusty lid used
+PS122/4_48-41	2020-07-20	optics-ECO	80.754259	-0.501642	0.060	0.030	K	0.0				dO18_0657	
+PS122/4_48-41	2020-07-20	optics-ECO	80.754259	-0.501642	0.030	0.000	Y	0.0				dO18_0658	
+PS122/4_48-41	2020-07-20	optics-ECO	80.754259	-0.501642	-0.010	-0.020	H	0.0				dO18_0659	
+PS122/4_48-41	2020-07-20	optics-ECO	80.754259	-0.501642	-0.020	-0.040	Q	0.0				dO18_0660	
+PS122/4_48-42	2020-07-21	optics-ECO	80.635336	-0.530859	0.020	0.000	I	0.0				dO18_0010	albedo point 1A
+PS122/4_48-42	2020-07-21	optics-ECO	80.635336	-0.530859	0.010	0.000	F	0.0				dO18_0011	albedo point 1B
+PS122/4_48-47	2020-07-22	optics-ECO	80.508354	-0.513978	0.060	0.000	S	0.0				dO18_0682	
+PS122/4_48-47	2020-07-22	optics-ECO	80.508354	-0.513978	0.100	0.070	AA	0.0				dO18_0683	
+PS122/4_48-47	2020-07-22	optics-ECO	80.508354	-0.513978	0.070	0.050	AA	0.0				dO18_0697	
+PS122/4_48-47	2020-07-22	optics-ECO	80.508354	-0.513978	0.050	0.000	AA	0.0				dO18_0698	
+PS122/4_48-58	2020-07-22	optics-ECO	80.467890	-0.572753	0.090	0.060	X	0.0				dO18_0686	
+PS122/4_48-58	2020-07-22	optics-ECO	80.467890	-0.572753	0.060	0.030	X	0.0				dO18_0687	
+PS122/4_48-58	2020-07-22	optics-ECO	80.467890	-0.572753	0.030	0.000	X	0.0				dO18_0688	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.170	0.140	M	0.0				dO18_0673	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.260	0.230	S	0.0				dO18_0676	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.200	0.170	W	0.0				dO18_0677	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.110	0.080	H	0.0				dO18_0678	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.050	0.020	J	0.0				dO18_0679	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.140	0.110	I	0.0				dO18_0680	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.080	0.050	Y	0.0				dO18_0681	
+PS122/4_49-47	2020-07-29	RS5-A4	79.187972	-2.590231	0.230	0.200	D	0.0				dO18_0700	
+PS122/4_49-7	2020-07-27	optics-ECO	79.637462	-2.247271	0.060	0.000	AD	0.0				dO18_0684	
+PS122/4_49-7	2020-07-27	optics-ECO	79.637462	-2.247271	0.040	0.000	Q	0.0				dO18_0696	
+PS122/4_49-8	2020-07-27	ds-coring-FYI*	79.629832	-2.248657	0.070	0.040	E	0.0				dO18_0670	
+PS122/4_49-8	2020-07-27	ds-coring-FYI*	79.629832	-2.248657	0.040	0.010	V	0.0				dO18_0671	
+PS122/4_49-8	2020-07-27	ds-coring-FYI*	79.629832	-2.248657	0.100	0.070	AF	0.0				dO18_0689	
+PS122/4_49-8	2020-07-27	ds-coring-FYI*	79.629832	-2.248657	0.070	0.040	AF	0.0				dO18_0691	
+PS122/4_49-8	2020-07-27	ds-coring-FYI*	79.629832	-2.248657	0.040	0.000	AF	0.0				dO18_0693	
+PS122/5_59-204	2020-08-22	SNOW5_ROV	87.751934	104.545247	0.030	0.000	D	0.0			21.5	dO18_0702	
+PS122/5_59-206	2020-08-22	SNOW5_RS	87.756544	104.731515	0.060	0.030	S	0.0			21.6		
+PS122/5_59-222	2020-08-23	SNOW5_MET	87.757849	105.990370	0.070	0.040	K	0.0			21.6		
+PS122/5_59-222	2020-08-23	SNOW5_MET	87.757849	105.990370	0.040	0.010	M	0.0			21.6		
+PS122/5_59-235	2020-08-23	SNOW5_OC	87.754877	105.909810	0.040	0.010	V	0.0			21.4	dO18_0704	
+PS122/5_59-235	2020-08-23	SNOW5_OC	87.754877	105.909810	0.070	0.040	I	0.0			21.7		
+PS122/5_59-250	2020-08-24	SNOW5_RS	87.767797	105.546037	0.040	0.010	Y	0.0			21.7		
+PS122/5_59-250	2020-08-24	SNOW5_RS	87.767797	105.546037	0.100	0.070	J	0.0			21.9		
+PS122/5_59-250	2020-08-24	SNOW5_RS	87.767797	105.546037	0.070	0.040	T	0.0			21.7		
+PS122/5_59-267	2020-08-25	SNOW5_ROV	87.777116	104.772369	0.040	0.010	W	0.0			21.6	dO18_0701	
+PS122/5_59-267	2020-08-25	SNOW5_ROV	87.777116	104.772369	0.080	0.050	Q	0.0			21.7		
+PS122/5_59-267	2020-08-25	SNOW5_ROV	87.777116	104.772369	0.110	0.080	B	0.0			21.5		
+PS122/5_59-292	2020-08-26	SNOW5_ALBK	87.828525	104.612719	0.040	0.010	L	0.0			21.5		
+PS122/5_59-292	2020-08-26	SNOW5_ALBK	87.828525	104.612719	0.070	0.040	E	0.0			21.5		
+PS122/5_59-292	2020-08-26	SNOW5_ALBK	87.828525	104.612719	0.100	0.070	H	0.0			21.4		
+PS122/5_59-313	2020-08-27	SNOW5_RS	87.945329	107.493158	0.050	0.020	F	0.0			21.4		
+PS122/5_59-313	2020-08-27	SNOW5_RS	87.945329	107.493158	0.030	0.000	N	0.0			21.3		
+PS122/5_59-350	2020-08-28	SNOW5_ALBK	88.024380	108.658333	0.060	0.030	G	0.0			21.5		
+PS122/5_59-350	2020-08-28	SNOW5_ALBK	88.024380	108.658333	0.030	0.000	O	0.0			21.6		
+PS122/5_59-352	2020-08-28	SNOW5_ROV	88.034057	108.874153	0.040	0.010	A	0.0			21.9	dO18_0703	
+PS122/5_60-128	2020-09-05	SNOW5_ALBK	88.750308	119.466975	0.035	0.005	G	0.0			21.6		
+PS122/5_60-142	2020-09-05	SNOW5_ROV	88.746582	119.405322	0.020	0.000	H	0.0			20.9		
+PS122/5_60-2	2020-08-31	SNOW5_CORING	88.284476	113.764353	0.040	0.010	S	0.0			21.1		
+PS122/5_60-24	2020-09-01	SNOW5_MET	88.339311	114.903970	0.050	0.020	T	0.0			20.9		
+PS122/5_60-26	2020-09-01	SNOW5_ROV	88.345061	115.148576	0.040	0.010	I	0.0			21.3		
+PS122/5_60-78	2020-09-03	SNOW5_ROV	88.584335	120.017143	0.040	0.010	D	0.0			21.1		
+PS122/5_60-91	2020-09-04	SNOW5_ALBK	88.697669	120.650948	0.033	0.015	J	0.0			20.7		
+PS122/5_61-132	2020-09-10	SNOW5_RS	88.708939	107.210500	0.035	0.005	E	0.0			21.6		
+PS122/5_61-162	2020-09-11	SNOW5_MET	88.733934	104.723708	0.080	0.050	F	0.0			21.1		
+PS122/5_61-198	2020-09-12	SNOW5_ROV	88.770863	101.628044	0.040	0.010	B	0.0			21.7	dO18_0705	
+PS122/5_61-198	2020-09-12	SNOW5_ROV	88.770863	101.628044	0.070	0.040	C	0.0			21.9		
+PS122/5_61-2	2020-09-07	SNOW5_CORING	88.726446	112.117193	0.045	0.015	W	0.0			21.5		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.045	-0.060	S	1.1			23.7		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.080	-0.120	M	1.1			22.7		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.030	-0.045	S	1.0			23.7		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.010	-0.030	S	1.2			23.4		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.060	-0.080	M	0.8			23.4		
+PS122/5_61-210	2020-09-12	LEAD_ICE_OC	88.771369	101.209891	-0.080	-0.100	M	0.8			22.6		
+PS122/5_61-236	2020-09-13	SNOW5_ALBK	88.856541	97.536664	0.070	0.040	A	0.0			21.6		
+PS122/5_61-236	2020-09-13	SNOW5_ALBK	88.856541	97.536664	0.040	0.010	D	0.0			21.6		
+PS122/5_61-25	2020-09-08	SNOW5_ROV	88.676110	112.661966	0.030	0.010	O	0.0			21.6	dO18_0149	surface, too hard for deep density measurements
+PS122/5_61-28	2020-09-08	SNOW5_MET	88.676125	112.350289	0.025	-0.005	V	0.0			21.7		
+PS122/5_61-4	2020-09-07	SNOW5_RS	88.703571	111.962607	0.030	0.000	A	0.0			21.9		
+PS122/5_61-97	2020-09-09	SNOW5_MET	88.729162	112.875178	0.030	0.000	Q	0.0			21.4	dO18_0070	not quite full vial
+PS122/5_61-97	2020-09-09	SNOW5_MET	88.729162	112.875178	0.060	0.030	Y	0.0			21.8	dO18_0071	not quite full vial
+PS122/5_61-97	2020-09-09	SNOW5_MET	88.729162	112.875178	0.120	0.090	B	0.0			21.8	dO18_0181	weight need to be combined with dO18_599
+PS122/5_61-97	2020-09-09	SNOW5_MET	88.729162	112.875178	0.090	0.060	K	0.0			21.8	dO18_0182	weight need to be combined with dO18_611
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.080	0.050	G	0.0			21.8		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.030	0.000	I	0.0			21.5		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.050	0.020	H	0.0			21.7		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.000	-0.020	X	0.0			18.4		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.040	0.020	X	0.0			18.6		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.020	0.000	X	0.0			18.6		
+PS122/5_62-10	2020-09-14	SNOW5_CORING	89.004131	99.049388	0.070	0.040	X	0.0			20.2		
+PS122/5_62-101	2020-09-17	SNOW5_TRANS_ARIEL_PIT	89.025123	108.168295	0.040	0.010	Y	0.0			19.8		
+PS122/5_62-119	2020-09-18	SNOW5_RADST_POND	89.065579	107.226262	0.070	0.040	T	0.0			19.0		
+PS122/5_62-119	2020-09-18	SNOW5_RADST_POND	89.065579	107.226262	0.040	0.010	B	0.0			19.6		
+PS122/5_62-119	2020-09-18	SNOW5_RADST_POND	89.065579	107.226262	0.040	0.020	AE	0.0			23.9		
+PS122/5_62-119	2020-09-18	SNOW5_RADST_POND	89.065579	107.226262	0.020	0.000	AE	0.3			24.3		
+PS122/5_62-119	2020-09-18	SNOW5_RADST_POND	89.065579	107.226262	0.070	0.040	AE	0.2			24.1		
+PS122/5_62-123	2020-09-18	SNOW5_TCHAIN_2020T78	89.067467	107.311044	0.040	0.010	F	0.0			20.1		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.035	0.005	E	0.0			20.1		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.065	0.035	E22	0.0			20.0		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.040	0.020	AA	0.0			24.1		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.000	-0.020	AA	0.3			23.0		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.020	0.000	AA	0.1			23.9		
+PS122/5_62-124	2020-09-18	SNOW5_MET	89.070548	107.343742	0.065	0.040	AA	0.0			23.0		
+PS122/5_62-126	2020-09-18	SNOW5_FMI_RADST	89.073609	107.075181	0.060	0.030	I	0.0			21.0		
+PS122/5_62-126	2020-09-18	SNOW5_FMI_RADST	89.073609	107.075181	0.030	0.000	K	0.1			21.2		
+PS122/5_62-126	2020-09-18	SNOW5_FMI_RADST	89.073609	107.075181	0.020	0.000	AB	0.2			23.3		
+PS122/5_62-126	2020-09-18	SNOW5_FMI_RADST	89.073609	107.075181	0.060	0.040	AB	0.0			23.9		
+PS122/5_62-126	2020-09-18	SNOW5_FMI_RADST	89.073609	107.075181	0.040	0.020	AB	0.1			23.8		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	0.030	0.000	AD	0.9			21.3		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	0.030	0.000	O	0.2			21.7		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.095	-0.120	AD	1.8			24.5		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.160	-0.180	AD	1.3			23.9		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.020	-0.050	AD	0.7			24.1		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.120	-0.140	AD	1.3			24.2		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.070	-0.095	AD	3.1			24.2		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.140	-0.160	AD	2.7			24.2		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	0.000	-0.020	AD	0.6			24.3		
+PS122/5_62-139	2020-09-19	FLUX_SLED_POND	89.146214	110.819362	-0.050	-0.070	AD	1.2			24.1		
+PS122/5_62-140	2020-09-19	SNOW5_RS	89.141897	110.790995	0.050	0.020	G	0.0			21.7		
+PS122/5_62-140	2020-09-19	SNOW5_RS	89.141897	110.790995	0.030	0.000	H	0.0			21.5		
+PS122/5_62-140	2020-09-19	SNOW5_RS	89.141897	110.790995	0.000	-0.020	AF	0.0			24.1		
+PS122/5_62-140	2020-09-19	SNOW5_RS	89.141897	110.790995	0.020	0.000	AF	0.0			23.9		
+PS122/5_62-140	2020-09-19	SNOW5_RS	89.141897	110.790995	0.050	0.020	AF	0.0			24.0		
+PS122/5_62-146	2020-09-19	SNOW5_TCHAIN_RS	89.138908	110.399341	0.040	0.010	Q	0.0			20.5		
+PS122/5_62-39	2020-09-15	SNOW5_FLUX	89.072621	107.470892	0.070	0.040	E45	0.1			21.6		
+PS122/5_62-39	2020-09-15	SNOW5_FLUX	89.072621	107.470892	0.040	0.010	E17	0.0			21.4		
+PS122/5_62-44	2020-09-15	SNOW5_RS	89.064766	107.785536	0.030	0.000	E22	0.1			21.5		
+PS122/5_62-44	2020-09-15	SNOW5_RS	89.064766	107.785536	0.040	0.020	Z	0.1			20.7		
+PS122/5_62-44	2020-09-15	SNOW5_RS	89.064766	107.785536	0.000	-0.020	Z	0.0			20.0		
+PS122/5_62-44	2020-09-15	SNOW5_RS	89.064766	107.785536	0.020	0.000	Z	0.1			18.9		
+PS122/5_62-69	2020-09-16	SNOW5_ROV	89.089668	108.640834	0.035	0.005	S	0.0			20.3		
+PS122/5_62-69	2020-09-16	SNOW5_ROV	89.089668	108.640834	0.065	0.035	G20	0.0			16.7		
+PS122/5_62-69	2020-09-16	SNOW5_ROV	89.089668	108.640834	0.000	-0.020	AC	0.1			24.1		
+PS122/5_62-69	2020-09-16	SNOW5_ROV	89.089668	108.640834	0.030	0.000	AC	0.0			24.1		
+PS122/5_62-69	2020-09-16	SNOW5_ROV	89.089668	108.640834	0.065	0.030	AC	0.0			24.1		
+PS122/5_62-89	2020-09-17	SNOW5_ALBK	89.028433	108.167418	0.050	0.020	V	0.0			19.7		
+PS122/5_62-89	2020-09-17	SNOW5_ALBK	89.028433	108.167418	0.080	0.050	W	0.0			20.6		
+PS122/5_62-89	2020-09-17	SNOW5_ALBK	89.028433	108.167418	0.035	0.005	W	0.0			23.4		
+PS122/5_62-89	2020-09-17	SNOW5_ALBK	89.028433	108.167418	0.065	0.035	W	0.0			23.4		
+PS122/5_62-89	2020-09-17	SNOW5_ALBK	89.028433	108.167418	0.005	-0.025	W	0.0			22.2		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.065	0.035	D	0.0			18.9		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.035	0.015	NaN	0.0			20.5		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.060	0.040	Y	0.0			20.4		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.000	-0.020	Y	0.0			20.9		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.040	0.020	Y	0.1			20.3		
+PS122/5_62-99	2020-09-17	SNOW5_FLUX	89.016113	107.546764	0.020	0.000	Y	0.0			20.2		
+PS122/5_63-262	2020-09-30	SNOW5_ICESTATION3	81.728701	1.625851	0.040	0.010	CT62	10.0			22.7		
+PS122/5_63-262	2020-09-30	SNOW5_ICESTATION3	81.728701	1.625851	0.070	0.040	CT61	2.6			23.5		
+PS122/5_63-96	2020-09-24	SNOW5_ICESTATION1	86.012462	59.425118	0.045	0.015	G	4.6			17.4		
+PS122/5_63-96	2020-09-24	SNOW5_ICESTATION1	86.012462	59.425118	0.075	0.045	W	0.8			15.3		
+PS122/5_63-96	2020-09-24	SNOW5_ICESTATION1	86.012462	59.425118	0.025	0.000	Z	1.7			23.9		
+PS122/5_63-96	2020-09-24	SNOW5_ICESTATION1	86.012462	59.425118	0.075	0.050	Z	0.5			24.0		
+PS122/5_63-96	2020-09-24	SNOW5_ICESTATION1	86.012462	59.425118	0.050	0.025	Z	1.2			24.0		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.060	0.030	T	0.0			16.5		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.090	0.060	V	0.1			17.1		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.120	0.090	K	0.1			20.2		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.030	0.000	S	0.1			20.5		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.090	0.060	Y	0.1			22.5		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.030	0.000	Y	0.0			22.9		
+PS122/5_63-97	2020-09-26	SNOW5_ICESTATION2	86.029337	35.539477	0.060	0.030	Y	0.1			24.1		
+PS122/5_63-99	2020-09-26	SNOW5_ICESTATION2	86.032503	35.502449	0.030	0.000	E22	0.0			19.0		
+PS122/5_63-99	2020-09-26	SNOW5_ICESTATION2	86.032503	35.502449	0.020	0.000	AD	0.0			23.9		
