@@ -246,7 +246,7 @@ License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
 Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels) * Processing Level: PANGAEA data processing level 1 (URI: https://wiki.pangaea.de/wiki/Processing_levels#PANGAEA_data_processing_level_1)
 Size:	5157 data points
 */
-
+Event	Date/Time	Location	Latitude	Longitude	H rel ice/snow max [m] (sampe top)	H rel ice/snow min [m] (sampe bottom)	Comment (Container)	ASAL [g/kg] (ppt)	Sal (PSU)	Cond [µS] (Salinity)	Temp [°C]	Sample ID (O18_vial_ID)	Comment
 PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.075	0.040		0.7		1312.0			
 PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.040	0.020		13.1		21750.0			
 PS122/1_10-5	2019-12-02	snow1-A5	85.924427	113.896223	0.020	0.000		16.5		26930.0			
