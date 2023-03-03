@@ -1,0 +1,14 @@
+/* DATA DESCRIPTION:
+Citation:	Macfarlane, Amy R; Schneebeli, Martin; Dadic, Ruzica; Wagner, David N; Arndt, Stefanie; Clemens-Sewall, David; Hämmerle, Stefan; Hannula, Henna-Reetta; Jaggi, Matthias; Kolabutin, Nikolai; Krampe, Daniela; Lehning, Michael; Matero, Ilkka; Nicolaus, Marcel; Oggier, Marc; Pirazzini, Roberta; Polashenski, Chris; Raphael, Ian; Regnery, Julia; Shimanchuck, Egor; Smith, Madison M; Tavri, Aikaterini (2022): Snowpit salinity profiles during the MOSAiC expedition. PANGAEA, https://doi.org/10.1594/PANGAEA.946807,
+	In: Macfarlane, AR et al. (2021): Snowpit raw data collected during the MOSAiC expedition. PANGAEA, https://doi.org/10.1594/PANGAEA.935934
+Abstract:	In the designated snowpits, 100cm3 of snow was collected in the field, melted and measured for salinity in the laboratory on board Polarstern. Salinity of the melted snow samples was measured using the YSI 30 Salinity, Conductivity and Temperature sensor. The transport containers, as well as the YSI tip, were cleaned using milli-Q water. Salinity profiles were measured at the same intervals as density and stable isotope profiles.
+Project(s):	Arctic Research Icebreaker Consortium: A strategy for meeting the needs for marine-based research in the Arctic (ARICE) (URI: https://www.arice.eu/)
+	Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) (URI: https://www.mosaic-expedition.org/)
+Funding:	Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven (AWI) (URI: http://www.awi.de), grant/award no. AFMOSAiC-1_00: Multidisciplinary drifting Observatory for the Study of Arctic Climate
+	Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven (AWI) (URI: http://www.awi.de), grant/award no. AWI_PS122_00: Multidisciplinary drifting Observatory for the Study of Arctic Climate / MOSAiC
+	Horizon 2020 (H2020) (URI: https://ec.europa.eu/programmes/horizon2020/), grant/award no. 730965: Arctic Research Icebreaker Consortium: A strategy for meeting the needs for marine-based research in the Arctic (URI: https://cordis.europa.eu/projects/730965)
+	Swiss Federal Institute for Forest, Snow and Landscape Research (WSL/FNP) (URI: http://www.wsl.ch), grant/award no. WSL_201812N1678
+	Swiss National Science Foundation (SNF) (URI: http://www.snf.ch/en/), grant/award no. 179130: From Cloud to Ground: Snow Accumulation in Extreme Environments (URI: https://p3.snf.ch/project-179130)
+	Swiss Polar Institute (SPI) (URI: https://swisspolar.ch), grant/award no. DIRCR-2018-003
+Coverage:	MEDIAN LATITUDE: 85.922622 * MEDIAN LONGITUDE: 67.897355 * SOUTH-BOUND LATITUDE: 79.187972 * WEST-BOUND LONGITUDE: -2.590231 * NORTH-BOUND LATITUDE: 89.146214 * EAST-BOUND LONGITUDE: 126.483514
+	DATE/TIME START: 2019-10-28T00:00:00 * DATE/TIME END: 2020-09-30T00:00:00
